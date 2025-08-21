@@ -12,4 +12,10 @@ SOCIETY (Y1 T1)
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC2.06 Harriss-White, India Working - Essays on Economy and Society\|SOC2.06 Harriss-White, India Working - Essays on Economy and Society]]
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC3.08 Bourdieu, The Forms of Capital\|SOC3.08 Bourdieu, The Forms of Capital]]
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC3.09 Subramanian, Making Merit\|SOC3.09 Subramanian, Making Merit]]
+- [[Y1 T1 Society/READINGS/PRIMARY/SOC5.15 Menon, Seeing Like a Feminist\|SOC5.15 Menon, Seeing Like a Feminist]]
+- [[Y1 T1 Society/READINGS/PRIMARY/SOC5.16 Philip, Becoming Young Men in a New India\|SOC5.16 Philip, Becoming Young Men in a New India]]
+- [[Y1 T1 Society/READINGS/PRIMARY/SOC5.17 Reddy, Negotiating Hijra Identity in South India\|SOC5.17 Reddy, Negotiating Hijra Identity in South India]]
+- [[Y1 T1 Society/READINGS/PRIMARY/SOC6.19 Carsten, After Kinship\|SOC6.19 Carsten, After Kinship]]
+- [[Y1 T1 Society/READINGS/PRIMARY/SOC6.20 Palriwala & Kaur, Marrying in South Asia - Shifting Concepts, Changing Practices in a Globalizing World\|SOC6.20 Palriwala & Kaur, Marrying in South Asia - Shifting Concepts, Changing Practices in a Globalizing World]]
+- [[Y1 T1 Society/READINGS/PRIMARY/SOC6.21 Vera-Sanso, Misconceiving the "Indian Family" - The Politics of Family-Based Discourse\|SOC6.21 Vera-Sanso, Misconceiving the "Indian Family" - The Politics of Family-Based Discourse]]
 - 
