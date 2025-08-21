@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/y1-t1-society/readings/primary/soc-5-15-menon-seeing-like-a-feminist/"}
 ---
 
-MChapter 2: 'Body'
+Chapter 2: 'Body'
 tags: #feminism, #gender, #patriarchy 
 
 
