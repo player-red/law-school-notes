@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/nlsiu-notes/","tags":["gardenEntry"]}
 ---
 
-/di
 TABLE OF CONTENTS
 
 SOCIETY (Y1 T1)
