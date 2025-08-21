@@ -21,5 +21,4 @@ Primary (class) readings
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC5.17 Reddy, Negotiating Hijra Identity in South India\|SOC5.17 Reddy, Negotiating Hijra Identity in South India]]
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC6.19 Carsten, After Kinship\|SOC6.19 Carsten, After Kinship]]
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC6.20 Palriwala & Kaur, Marrying in South Asia - Shifting Concepts, Changing Practices in a Globalizing World\|SOC6.20 Palriwala & Kaur, Marrying in South Asia - Shifting Concepts, Changing Practices in a Globalizing World]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC6.21 Vera-Sanso, Misconceiving the "Indian Family" - The Politics of Family-Based Discourse\|SOC6.21 Vera-Sanso, Misconceiving the "Indian Family" - The Politics of Family-Based Discourse]]
-- 
+
