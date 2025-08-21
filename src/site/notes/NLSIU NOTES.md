@@ -12,3 +12,4 @@ SOCIETY (Y1 T1)
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC2.06 Harriss-White, India Working - Essays on Economy and Society\|SOC2.06 Harriss-White, India Working - Essays on Economy and Society]]
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC3.08 Bourdieu, The Forms of Capital\|SOC3.08 Bourdieu, The Forms of Capital]]
 - [[Y1 T1 Society/READINGS/PRIMARY/SOC3.09 Subramanian, Making Merit\|SOC3.09 Subramanian, Making Merit]]
+- 

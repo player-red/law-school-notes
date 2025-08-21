@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/y1-t1-society/readings/primary/soc-1-03-deshpande-contemporary-india-a-sociological-view/"}
 ---
 
-/digital
+
 Chapter 1: 'Squinting at Society' (pg 1-24)
 tags: #basics 
 
