@@ -32,4 +32,10 @@ Example link: [[Y1 T1 Society/READINGS/PRIMARY/SOC1.02 Mills, The Sociological I
 3. Who can I share this with?
 	Whoever asks, no gatekeeping in this household. 
 
+<h3>Helpful Links</h3>
+
+- How to use Obsidian: https://help.obsidian.md
+- Digital Garden (community plugin) setup guide: https://dg-docs.ole.dev/getting-started/01-getting-started/
+- Really cool digital garden someone made: https://hermitage.utsob.me
+
 
