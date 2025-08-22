@@ -7,7 +7,8 @@
 <h1>HOME</h1>
 <h2>Instructions</h2>
 How to access all the notes I publish + the mind maps:
-- Click the menu icon.
+
+- Click the menu icon (for mobile users/split screen on pc).
 - Expand the relevant folders and access notes.
 - Mind map available at the bottom of the note.
 
