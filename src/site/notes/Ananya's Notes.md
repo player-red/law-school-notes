@@ -27,10 +27,8 @@ Example link: [[Y1 T1 Society/READINGS/PRIMARY/SOC1.02 Mills, The Sociological I
 
 1. Which app do you use for making notes?
 	I use Obsidian, it's completely free except for the sync and publish features, which are easily circumvented.
-
 2. How did you make this website?
 	Using the Digital Garden plugin for Obsidian - it has step-by-step instructions on how to create a GitHub repo and host your site using Vercel.
-
 3. Who can I share this with?
 	Whoever asks, no gatekeeping in this household. 
 
