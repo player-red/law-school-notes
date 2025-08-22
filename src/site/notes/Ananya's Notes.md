@@ -25,9 +25,9 @@ Update policy:
 </h3>
 - This website will be updated daily, but changes will take a while to reflect.
 - As and when I finish my notes for readings, you will be able to see them.
-- <b>Email me on ananya.kamath@nls.ac.in</b> for questions, tech support (if the website isn't working) or requesting a reading. 
+- <i>Email me on ananya.kamath@nls.ac.in</i> for questions, tech support (if the website isn't working) or requesting a reading. 
 - Some of my reading notes are in my physical notes, so these will be updated with lower priority.
-- If you want to import ALL of my files to use for yourself on Obsidian (with a proper mindmap and links), email me. Taking this route means that my files will not update automatically, because they will be <b>locally</b> stored.
+- If you want to import ALL of my files to use for yourself on Obsidian (with a proper mindmap and links), email me. Taking this route means that my files will not update automatically, because they will be <i>locally</i> stored.
 
 <h3>
 FAQ:
