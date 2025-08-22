@@ -23,7 +23,7 @@ Edmund Husserl's perspective
 
 Antonio Gramsci's perspective
 - Commonsense is the philosophy inherited from the socio-cultural environment. 
-- The power structure that prevails in that society exerts influence on the commonsense notions that the people hold. 
+- The power structure that prevails in that society exerts influence on the commonsense notions that the people hold. (hegemony)
 	- This helps legitimize the power structure.
 	- It also makes it more vulnerable to reformulation through propaganda or other subversive means.
 
