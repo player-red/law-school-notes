@@ -4,7 +4,7 @@
 
 
 
-<h1>HOME</h1>
+<center><h1>HOME</h1></center>
 <h2>Instructions</h2>
 How to access all the notes I publish + the mind maps:
 
