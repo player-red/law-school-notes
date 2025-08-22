@@ -2,23 +2,46 @@
 {"dg-publish":true,"permalink":"/ananya-s-notes/","tags":["gardenEntry"]}
 ---
 
-# TABLE OF CONTENTS
-(if you are seeing this, I want chocolate pls)
+<html>
+<head></head>
+<body>
 
-SOCIETY (Y1 T1)
-Basic readings
-- [[Y1 T1 Society/READINGS/BASIC/Giddens, Anthony & Sutton - Sociology Ch. 1\|Giddens, Anthony & Sutton - Sociology Ch. 1]]
+<center>
+<h1>HOME</h1>
+</center>
 
-Primary (class) readings
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC1.02 Mills, The Sociological Imagination\|SOC1.02 Mills, The Sociological Imagination]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC1.03 Deshpande, Contemporary India - A Sociological View\|SOC1.03 Deshpande, Contemporary India - A Sociological View]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC2.05 Marx & Engels, The Communist Manifesto\|SOC2.05 Marx & Engels, The Communist Manifesto]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC2.06 Harriss-White, India Working - Essays on Economy and Society\|SOC2.06 Harriss-White, India Working - Essays on Economy and Society]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC3.08 Bourdieu, The Forms of Capital\|SOC3.08 Bourdieu, The Forms of Capital]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC3.09 Subramanian, Making Merit\|SOC3.09 Subramanian, Making Merit]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC5.15 Menon, Seeing Like a Feminist\|SOC5.15 Menon, Seeing Like a Feminist]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC5.16 Philip, Becoming Young Men in a New India\|SOC5.16 Philip, Becoming Young Men in a New India]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC5.17 Reddy, Negotiating Hijra Identity in South India\|SOC5.17 Reddy, Negotiating Hijra Identity in South India]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC6.19 Carsten, After Kinship\|SOC6.19 Carsten, After Kinship]]
-- [[Y1 T1 Society/READINGS/PRIMARY/SOC6.20 Palriwala & Kaur, Marrying in South Asia - Shifting Concepts, Changing Practices in a Globalizing World\|SOC6.20 Palriwala & Kaur, Marrying in South Asia - Shifting Concepts, Changing Practices in a Globalizing World]]
+<pre>
+<h2>Instructions</h2>
+How to access all the notes I publish + the mind maps:
+- Click the menu icon.
+- Expand the relevant folders and access notes.
+- Mind map available at the bottom of the note.
+
+Example link: [[Y1 T1 Society/READINGS/PRIMARY/SOC1.02 Mills, The Sociological Imagination\|SOC1.02 Mills, The Sociological Imagination]]
+- This link will redirect you to my notes for the first society reading, from where you can go to other linked notes/people/concepts.
+
+<h3>
+Update policy:
+</h3>
+- This website will be updated daily, but changes will take a while to reflect.
+- As and when I finish my notes for readings, you will be able to see them.
+- <b>Email me on ananya.kamath@nls.ac.in</b> for questions, tech support (if the website isn't working) or requesting a reading. 
+- Some of my reading notes are in my physical notes, so these will be updated with lower priority.
+- If you want to import ALL of my files to use for yourself on Obsidian (with a proper mindmap and links), email me. Taking this route means that my files will not update automatically, because they will be <b>locally</b> stored.
+
+<h3>
+FAQ:
+</h3>
+1. Which app do you use for making notes?
+	I use Obsidian, it's completely free except for the sync and publish features, which are easily circumvented.
+2. How did you make this website?
+	Using the Digital Garden plugin for Obsidian - it has step-by-step instructions on how to create a GitHub repo and host your site using Vercel.
+3. Who can I share this with?
+	 Whoever asks, no gatekeeping in this household. 
+
+</pre>
+
+</body>
+</html>
+
 
