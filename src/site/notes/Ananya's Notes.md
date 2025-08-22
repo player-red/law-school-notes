@@ -38,4 +38,4 @@ Example link: [[Y1 T1 Society/READINGS/PRIMARY/SOC1.02 Mills, The Sociological I
 - Digital Garden (community plugin) setup guide: https://dg-docs.ole.dev/getting-started/01-getting-started/
 - Really cool digital garden someone made: https://hermitage.utsob.me
 
-
+<p style="font-size: 10px; text-align: center;">accepting chocolates and cat pics as appreciation :D<br>Ananya Kamath, 2025</p>
