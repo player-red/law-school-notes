@@ -18,6 +18,7 @@ tags: #basics
 
 Edmund Husserl's perspective
 - The social world has infinite meanings that cannot be categorized like rational sciences.
+	- Labels: symbolic interactionism, ethnomethodology, phenomenological sociology, etc: explain that humans attach meanings to certain symbols and gestures and navigate the social world through using and interpreting these symbols.
 - These background understandings can never be fully explained, because they also depend on what is unsaid/implied, not just what is said.
 - This perspective sees commonsense as a toolkit to decode and code social interactions.
 
