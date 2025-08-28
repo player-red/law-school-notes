@@ -41,3 +41,21 @@ Gender studies gaining importance:
 
 Class differences in marriage:
 - Previous studies focused mainly on elite groups, overlooking any differences experienced by non-elite groups.
+- Common trend of rising age of marriage.
+- Gap between the time at which marriage takes place and when cohabitation begins. 
+
+Money, dowry and inheritance:
+- Educated women are often sent off with large dowries, especially because they do not want to jeopardize their relationship with their brothers by claiming part of the inheritance.
+	- This is because brothers can often be a strong source of support when a woman is married. 
+- A working class woman often can negotiate better terms, since she earned her own dowry. 
+- Marriage celebrations are progressively becoming more expensive, especially among upper and middle classes.
+	- Aids the performance of marriage rituals. 
+	- 'Ideal' wedding is 'traditional': however is simply an expression of status (how much money they can afford to throw away on a wedding).
+	- This is the commonsense understanding of what a wedding should look like. 
+
+- Due to the paradigm of a upper-class, upper-caste Hindu wedding, any deviation from the "normal" decided by society results in violence, especially against the bride. 
+	- Honour killings: often occur when the bride chooses her own groom - defying social control and endo-/exogamy.
+
+Economies of marriage and work
+- 
+
