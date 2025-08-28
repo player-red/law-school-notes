@@ -11,6 +11,7 @@ How to access all the notes I publish + the mind maps:
 - Click the menu icon (for mobile users/split screen on pc).
 - Expand the relevant folders and access notes.
 - Mind map available at the bottom of the note.
+- You can also view all notes relating to a certain tag by clicking on it, for example: #basics 
 
 Example link: [[Y1 T1 Society/READINGS/PRIMARY/SOC1.02 Mills, The Sociological Imagination\|SOC1.02 Mills, The Sociological Imagination]]
 - This link will redirect you to my notes for the first society reading, from where you can go to other linked notes/people/concepts.
