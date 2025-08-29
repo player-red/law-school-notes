@@ -57,5 +57,33 @@ Money, dowry and inheritance:
 	- Honour killings: often occur when the bride chooses her own groom - defying social control and endo-/exogamy.
 
 Economies of marriage and work
-- 
+- Capitalism and globalization have changed the nature of marital relations: affects gender equations, love, conjugality.
+- Marriage acts as a way to control a woman's sexuality, at the same time provide benefits: it can assure housing/skills. 
+	- A woman is now seen as another labourer, to be exploited by the families exchanging her through marriage. 
+	- Delay of marriage to keep her labour and income for longer.
+- Compatibility and personal happiness are also considered.
+	- Personal choice is gaining importance, without diminishing the importance of parental approval. 
+	- Some poor parents encourage marriages brought about through self-choice. 
+- Working women are often shamed, however, if their relationships do not end in marriage. 
+- Women are now expected to both work and handle household affairs, especially if poor. 
 
+Modern Marriages
+- Matchmaking: carried out by parents, siblings, extended family, family friends, etc. 
+	- If no match is found, matrimonial websites, newspaper ads, matrimonial bureaus, etc. are used.
+- The demand for dowry has increased in West Bengal after the 'modernization' of matchmaking.
+	- The usage of matrimonial websites has caused emphasis to be put on the physical attractiveness of women.
+		- Caste, religion, language, region, etc remain important.
+- NRIs also use anonymous matchmaking sites to retain ties back home.
+- Love marriages more common among upper classes and the working poor.
+
+Love and Conjugality (in and beyond marriage)
+- Marriage was often studied within the [[Y1 T1 Society/CONCEPTS/Heterosexual Matrix\|Heterosexual Matrix]], because studying individual and emotions was seen as too subjective and difficult to judge. 
+- Expectations spouses have for each other vary due to descent and inheritance rules.
+- Economic independence makes it significantly easier to flout family pressures and enter a love marriage.
+- 'Self-arranged' is a better term for love marriages, since these marriages are also about instrumentalities.
+
+Activism and Legal Interventions
+- The British separated personal and criminal + civil laws.
+	- Based on the assumption that personal laws would be based on religion and community values.
+	- However, both the state and community values drew from each other from time to time. 
+- Female agency and contradictions: wife complains of willful abandonment by husband, but would still live with him if he returned.
