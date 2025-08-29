@@ -8,4 +8,4 @@ Views of modernity and modernization:
 - constantly explored through the lens of what is 'traditional' 
 - extremely desirable (for non-Western countries colonized by Western countries), since colonial marks could be erased and they could feel equal to their former colonial masters.
 - 'Tradition' and 'modernity' work in tandem: if one is present, another party is compensating.
-	- If a man is 'modern', a woman may be 'traditional'
+	- If a man is 'modern', a woman may be 'traditional'.
