@@ -70,6 +70,6 @@ Local level family-based discourse
 2. Fudging the household boundary
 	- Assumption made by public discourse: everyone has a functioning household - ignores how inequality impacts the lives of people, economically and socially.
 	- Some cannot start or join households, given temporary access to others' households (not as equals).
-	- 'Paying guests': works well for men, since they are out most of the day working and socializing. However, women spend most of their time in the household, acutely aware of their situation and trying to help with domestic chores & childcare while earning outside. 
+	- [[Y1 T1 Society/CONCEPTS/Gender\|Gender]]: 'Paying guests': works well for men, since they are out most of the day working and socializing. However, women spend most of their time in the household, acutely aware of their situation and trying to help with domestic chores & childcare while earning outside. Similarly, young people tend to be better off as compared to older people.
 
 
