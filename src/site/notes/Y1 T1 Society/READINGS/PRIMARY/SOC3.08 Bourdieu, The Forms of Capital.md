@@ -30,7 +30,7 @@ Cultural capital
 	- transmitted to children during the socialization period, called the period of accumulation.
 	- free time for this sort of education is obtained from the time freed up by domestic labour.
 	- form of capital that is hidden in the best way, cannot be censored and controlled in ways that other forms of capital are.
-2. Objectified state
+2. Objectified state: literal physical objects.
 3. Institutionalized state
 	- embodied + objectified = same biological limits as bearer, cannot be transmitted.
 	- eg: a certificate confirming competence.
