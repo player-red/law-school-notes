@@ -57,6 +57,19 @@ Senior citizen pension policy
 	- Can evict widowed daughters-in-law.
 
 Cultural values: What is culture?
-- 
+- Practice may vary, but values and beliefs are retained.
+- Different understandings of 'joint', 'nuclear', 'family', 'household', 'looking after', 'living with'.
+- Often younger people depending on older people. 
+
+Local level family-based discourse
+1. Defining household boundaries
+	- Contextually understood, creates limitations in the Census definition. 
+	- Meaning of joint: based on family unity, income, legal status of property, etc.
+	- Census assumes that every person has one identified home and always lives there.
+	- Assumes that households are self-sufficient.
+2. Fudging the household boundary
+	- Assumption made by public discourse: everyone has a functioning household - ignores how inequality impacts the lives of people, economically and socially.
+	- Some cannot start or join households, given temporary access to others' households (not as equals).
+	- 'Paying guests': works well for men, since they are out most of the day working and socializing. However, women spend most of their time in the household, acutely aware of their situation and trying to help with domestic chores & childcare while earning outside. 
 
 
