@@ -13,3 +13,16 @@
 - Racial and cultural distinctiveness gained recognition due to anti-colonial movements.
 - Subaltern societies gained recognition and some customary laws in the post-Emergency period. 
 - Helping Adivasi communities express their community consciousness and build a political foundation.
+
+Beyond tribal studies
+- Many authors often conflate 'tribe' and 'Adivasi', erasing the nuance of the latter.
+- Risley's definition of a tribe: collection of families sharing the same name (no specific occupation), claiming descent from a mythical ancestor or animal.
+	- Distinguished from [[Y1 T1 Society/CONCEPTS/Caste\|caste]] and religion, instead made the term 'tribe' a definable object.
+	- Ethnographic texts contradicted this, giving a variety of ideas of a tribe and then back to one fixed identity. 
+- To codify land rights, colonial policy and ethnography developed and finally separated. 
+	- It was during this time that caste and tribe were separated.
+	- Category of tribe kept being modified to suit the situation. 
+	- Always othered from the rest of the population (hill- and forest-dwellers vs plain-dwellers, aboriginals vs Hindus, animists vs polytheists, etc.) - [[Y1 T1 Society/CONCEPTS/Othering\|Othering]].
+	- Notion of tribes as primitive also internalized by modernist Indian thinkers, attempts to diverge from highlighting racial typography resulted in perpetuating primitivist tendencies.
+	- Sarat Chandra Roy simply presented 'tribal' cultures as fully separate from Hindu civilization. 
+- Anthropology and sociology: 
