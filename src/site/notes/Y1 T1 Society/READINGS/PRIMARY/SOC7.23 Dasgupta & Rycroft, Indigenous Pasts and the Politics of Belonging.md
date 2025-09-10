@@ -25,4 +25,14 @@ Beyond tribal studies
 	- Always othered from the rest of the population (hill- and forest-dwellers vs plain-dwellers, aboriginals vs Hindus, animists vs polytheists, etc.) - [[Y1 T1 Society/CONCEPTS/Othering\|Othering]].
 	- Notion of tribes as primitive also internalized by modernist Indian thinkers, attempts to diverge from highlighting racial typography resulted in perpetuating primitivist tendencies.
 	- Sarat Chandra Roy simply presented 'tribal' cultures as fully separate from Hindu civilization. 
-- Anthropology and sociology: 
+- [[Y1 T1 Society/PEOPLE/André Béteille\|André Béteille]] pointed out the fact that India is a unique case, and that tribes and other social organizations need to be recognized without using a textbook definition of a tribe. 
+- Devalle, Skaria and Guha argued that a 'tribe' is a colonial category with no grounded reasoning, originating in colonial theories and practices.
+
+- De-coloniality: moving beyond colonial and post-colonial patterning. 
+	- Describes the transition between de-colonisation and post-coloniality.
+
+The politics of belonging
+- The Adivasi identity still has to replace the 'tribal' label in India.
+	- The notion that Adivasi people are tribal is upheld by the 5th and 6th Schedule of the Constitution. 
+	- Often takes precedence over the 'indigenous' part of Adivasi identity.
+- Includes many different geographical identities: regional, state-level, international.
