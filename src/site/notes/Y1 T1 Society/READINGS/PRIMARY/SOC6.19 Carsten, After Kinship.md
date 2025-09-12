@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/y1-t1-society/readings/primary/soc-6-19-carsten-after-kinship/"}
 ---
 
-
 (pg 1-26)
 tags: #family, #kinship, #marriage 
 

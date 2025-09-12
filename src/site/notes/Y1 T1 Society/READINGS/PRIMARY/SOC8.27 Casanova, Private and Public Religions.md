@@ -107,4 +107,7 @@ Religious Differentiation
 - Both attempt to reduce religion to one of two poles or a derivation of the other pole.
 
 (2) Community cults vs. Religious communities
-- 
+- The 'community cult' is defined as the one in which individual interests take the backseat in favour of collective interests, and the 'religious community' emerges as a collective to take care of individual needs.
+- Differences drawn based on the nature of the community and the status of the entry rules.
+	- Community cults — political = religious, one is born into the cult. The God of the cult becomes a symbol for its community.
+	- Religious communities — 
