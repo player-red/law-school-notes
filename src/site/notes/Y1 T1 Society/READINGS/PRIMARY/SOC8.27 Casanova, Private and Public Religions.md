@@ -76,6 +76,20 @@ Private/Public Distinction
 - Only salaried employment outside the home is recognized as work, ignoring the labour required in households, mostly performed by women. 
 - Leisure becomes commodified and turned into the sphere of 'culture'.
 - To say that religion is a private affair assigns a normative expectation to the expression of religion, confining it to the 'home', not the 'household' (==privatization==) — the sphere of emotion, love, intimacy, irrationality, morality, spirituality, etc. leading to the ==feminization== of religion. 
+- It became exempt from public discourse and life, to the point where expressing a religious belief in public was seen as bad taste.
+- Luckmann argues that churches are no longer relevant to religion, as the quest for salvation has become an individual one. 
+	- Explained by institutional and role differentiation, which means all the spheres of life became distinct categories, with their own autonomy — no overlaps with others.
+	- Similarly, religion becomes a part-time activity within the individual sphere. 
+- Public institutions do not need to maintain a religious attitude, since the quest for meaning is now a personal affair. 
+- The 'cult of the individual' supports secularization and dehumanization of the social structure.
+	- This is because the idea of assigning a certain holiness to the subjectivity of the human experience, we alienate and isolate ourselves from each other. 
+
+Religious Revivals
+- Recently, a movement of deprivatization of religion has begun, a reassertion of 'public' religion. 
+- 70s and 80s saw an outburst of religion globally. 
+- In the 1980s, what was new was the vitality that these religious movements carried with them, enough to create political revolts. 
+- We do not know what these religious developments will mean for differentiation - religious institutions will continue to refuse to restrict themselves to the private sphere and influence public life.
+- To question privatization of religion simply means to wonder whether religious institutions will still play a role in public life, not to advocate the return of normative public religion. 
 
 
 
