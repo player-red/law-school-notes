@@ -91,5 +91,16 @@ Religious Revivals
 - We do not know what these religious developments will mean for differentiation - religious institutions will continue to refuse to restrict themselves to the private sphere and influence public life.
 - To question privatization of religion simply means to wonder whether religious institutions will still play a role in public life, not to advocate the return of normative public religion. 
 
+Religious Differentiation
 
-
+(1) Individual and group religiosity
+- These two reject the other.
+- Two varying perspectives: one which champions the individual, and the other which champions community. 
+- Individual perspective:
+	- The individual aspect (personal religion - feelings and experiences differing from person to person) is primordial, and the institutional aspect (community, worship, ritual, theology, etc) are secondary.
+		- William James
+	- Individual charisma vs the routinization of charisma (religious roles and institutions that are created when community is involved).
+		- Weber
+-  Community perspective:
+	- Religion always involves community, such as a church. Any individual expression is derived from a group religion or is not religion, but magic.
+		- Durkheim and W. Robertson Smith. 
