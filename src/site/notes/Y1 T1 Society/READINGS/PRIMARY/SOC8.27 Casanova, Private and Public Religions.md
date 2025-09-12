@@ -104,3 +104,7 @@ Religious Differentiation
 -  Community perspective:
 	- Religion always involves community, such as a church. Any individual expression is derived from a group religion or is not religion, but magic.
 		- Durkheim and W. Robertson Smith. 
+- Both attempt to reduce religion to one of two poles or a derivation of the other pole.
+
+(2) Community cults vs. Religious communities
+- 
