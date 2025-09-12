@@ -10,3 +10,5 @@ Influential works:
 	- Explained that sociology should be a comparative study, since it can never be perfectly objectively studied: hence a social fact could not be studied in isolation. 
 - Suicide (monograph)
 - The Elementary Forms of the Religious Life
+
+- Theory of functionalism: explained that every aspect of social life has a 'function' that it fulfills, a need that the social animal has in order to survive.
