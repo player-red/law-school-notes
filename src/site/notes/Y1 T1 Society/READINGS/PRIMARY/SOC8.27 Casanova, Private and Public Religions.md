@@ -75,6 +75,7 @@ Private/Public Distinction
 ==Home vs Religious Market (feminist view)==
 - Only salaried employment outside the home is recognized as work, ignoring the labour required in households, mostly performed by women. 
 - Leisure becomes commodified and turned into the sphere of 'culture'.
+- To say that religion is a private affair assigns a normative expectation to the expression of religion, confining it to the 'home', not the 'household' (==privatization==) — the sphere of emotion, love, intimacy, irrationality, morality, spirituality, etc. leading to the ==feminization== of religion. 
 
 
 
