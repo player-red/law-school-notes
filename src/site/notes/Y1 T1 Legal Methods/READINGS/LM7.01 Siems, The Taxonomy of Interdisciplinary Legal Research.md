@@ -25,5 +25,8 @@ Basic interdisciplinary research
 Advanced Interdisciplinary Research: Type 1
 - Non-legal questions + separated disciplines 
 - EX: developing strong capital markets (law is just one factor), how to tackle climate change (legal aspects - developing the law, policies, signing of treaties, etc.)
-- Advantages: relatively comprehensive view of a topic, 
-- Disadvantage: 
+- Advantages: relatively comprehensive view of a topic, does not focus on only one small part of the problem, rather looks at interconnected issues.
+- Disadvantage: requires acquiring of knowledge about other fields, or collaboration with researchers from other fields. The way universities are currently structured, knowledge is siloed and difficult for people from other disciplines to access.
+
+Advanced Interdisciplinary Research: Type 2
+- 
