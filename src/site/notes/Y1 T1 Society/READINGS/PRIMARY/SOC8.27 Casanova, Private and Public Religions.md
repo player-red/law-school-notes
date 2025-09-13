@@ -110,4 +110,14 @@ Religious Differentiation
 - The 'community cult' is defined as the one in which individual interests take the backseat in favour of collective interests, and the 'religious community' emerges as a collective to take care of individual needs.
 - Differences drawn based on the nature of the community and the status of the entry rules.
 	- Community cults — political = religious, one is born into the cult. The God of the cult becomes a symbol for its community.
-	- Religious communities — 
+	- Religious communities — in which individuals respond to a religious message, not necessarily political.
+- Most religions will be mixed forms of both types. 
+
+(3) Religion and "World"
+- The 3 "world religions" fear control and use of religion for the world's purposes, and would prefer theocracy — the shaping of the world according to their God.
+- The third option, which actually prevails, is the separation of religion from the rest of the world, which is the option that most people prefer, including religious people. 
+	- This is because it protects religion from the world, and the world from religion. 
+- The persecution of Christians in the Roman Empire led to the privatization of religion and its separation from the public sphere. 
+	- Privatization of various Protestant denominations.
+
+CONCLUSION: Tension between the private and public roles of religion will always remain, and religion cannot be confined to the private sphere only. 
