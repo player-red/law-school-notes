@@ -29,4 +29,14 @@ Advanced Interdisciplinary Research: Type 1
 - Disadvantage: requires acquiring of knowledge about other fields, or collaboration with researchers from other fields. The way universities are currently structured, knowledge is siloed and difficult for people from other disciplines to access.
 
 Advanced Interdisciplinary Research: Type 2
-- 
+- Legal questions + scientific methods
+- Requires a shift in traditional legal thinking. 
+- Science is about verifying hypotheses, but the hypothesis may be formulated in any way as long as it can be proven, whether through (1) logic or (2) empirical data.
+
+Advanced Interdisciplinary Research: Type 3
+- Non-legal questions + scientific methods
+- EX: developing strong capital markets — studying the factors in a quantitative way, out of which law is a factor.
+
+Disadvantages of using scientific methods: 
+- reduction of the complexity of legal issues by using assumptions and formulae.
+- assumptions are often extremely unrealistic.
