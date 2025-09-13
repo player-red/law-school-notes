@@ -61,3 +61,20 @@ The form and structure of a rule
 	- Some rules are backed by sanctions.
 	- The sanction can be part of the apodosis or as a separate rule entirely (latter is preferred).
 		- When it is part of a separate rule, the apodosis of rule 1 becomes the protasis of rule 2.
+
+Rules, exceptions and exemptions
+- Exceptions to a law/rule are often found in different places.
+- Exemptions can be given under certain implied situations. 
+
+The variety of rules
+- Rules as social phenomena
+	- People use rules to make sense of the world they live in.
+	- Types of rules can be classified using:
+		- The activity they govern
+		- Source
+		- Character of prescription (permission, requirements, prohibitions, etc.)
+		- The form in which they appear (officially approved fixed verbal, informally stated, tacitly understood, etc.)
+		- People governed by them
+		- Prof. HLA Hart's theory of primary and secondary rules:
+			- Primary (basic): Required to do or not to do, no choice as duty is imposed.
+			- Secondary: by doing things, humans introduce new rules and confer powers to create new primary rules.
