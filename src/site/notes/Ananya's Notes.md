@@ -5,7 +5,7 @@
 
 
 <center><h1>HOME</h1></center>
-<h2>NOTICE: Legal notes added</h2>
+<h2>NOTICE: Legal notes currently adding</h2>
 <h2>Instructions</h2>
 How to access all the notes I publish + the mind maps:
 
