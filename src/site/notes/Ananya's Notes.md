@@ -7,7 +7,7 @@
 <center><h1>HOME</h1></center>
 <h2>NOTICE: Legal notes added</h2>
 <h2>Instructions</h2>
-How to access all the notes I publish + the mind maps:p
+How to access all the notes I publish + the mind maps:
 
 - Click the menu icon (for mobile users/split screen on pc).
 - Expand the relevant folders and access notes.
