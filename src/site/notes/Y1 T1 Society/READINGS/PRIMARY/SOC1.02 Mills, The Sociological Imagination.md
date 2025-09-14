@@ -26,7 +26,7 @@ Individual troubles and overarching issues:
 [[Y1 T1 Society/CONCEPTS/The Sociological Imagination\|The Sociological Imagination]]
 - The ability of individuals to understand the larger historical scene and connect it to their individual troubles, both internal and external. 
 - They are then able to focus their personal uneasiness on external issues and become involved with public issues. 
-- Locating themselves within their period, by becoming aware of those with the same circumstances -- makes it easier to gauge their own chances.
+- Locating themselves within their period, by becoming aware of those with the same circumstances — makes it easier to gauge their own chances.
 - Being able to shift from one perspective to another and see the relations between different perspectives.
 - Tracing the links between different occurrences and using this knowledge to understand issues.
 
