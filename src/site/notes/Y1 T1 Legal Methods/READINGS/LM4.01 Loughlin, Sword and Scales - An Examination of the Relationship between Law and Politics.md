@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/y1-t1-legal-methods/readings/lm-4-01-loughlin-sword-and-scales-an-examination-of-the-relationship-between-law-and-politics/"}
 ---
 
-Chapter 1 (pp. 9-12)
+==Chapter 1== (pp. 9-12)
 
 What is Law?
 - Doesn't have a proper, satisfying definition. (Prof. HLA Hart)
@@ -14,7 +14,8 @@ Law as an instrument of government
 - Austin's thoughts:
 	- Law is comprised of the commands of ultimate political authority (person or body).
 	- Output of a political process (voting by representatives in a democracy). - Product of politics.
-- Greek view
+
+Greek view
 	- Law establishes the structure in which political action can be taken. 
 	- Unlike Austin's view, it says that law is the background for politics.
 	- Theory of natural law and justice associated with this view. 
@@ -39,7 +40,7 @@ Law as reason/right:
 - Judiciary is separate from the political conflicts of society.
 - Dworkin says that political issues are sometimes converted into legal issues.
 
-Chapter 14 (pp. 217-227)
+==Chapter 14== (pp. 217-227)
 
 Law as custom
 - Knowledge is not acquired through theory or analysis, but through education in tradition.
