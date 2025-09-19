@@ -10,7 +10,7 @@ tags: #basics
 - Explains his theory of [[Y1 T1 Society/CONCEPTS/Commonsense\|Commonsense]] and sociology.
 
 - Commonsense is acquired through years of social training, though it is perceived to be untaught/something that cannot be taught.
-- Everything is expected to know and follow these shared values, attitudes and habits.
+- Everyone is expected to know and follow these shared values, attitudes and habits.
 - It varies from society to society.
 - Pre-judice: it is part of our unconscious, and affects our conscious judgments before we make them.
 	- Our perceptions and beliefs are all affected by it.
@@ -35,7 +35,7 @@ Antonio Gramsci's perspective
 
 - How to think about and critique commonsense: convert pre-judice to post-judice.
 	- Examine commonsense with rationality, look at which values we cherish and despise, and then look at society.
-	- [[Y1 T1 Narrative/READINGS/NAR2.4 Plato, Apology\|NAR2.4 Plato, Apology]] - "for a human being a life without examination is actually not worth living"
+	- [[ARCHIVE/Y1 T1 Narrative/READINGS/NAR2.4 Plato, Apology\|NAR2.4 Plato, Apology]] - "for a human being a life without examination is actually not worth living"
 - Sociologists need to learn how to see both commonsense and society at the same time, and figure out how each affects the other.
 
 Aspects affecting Indian sociology:
