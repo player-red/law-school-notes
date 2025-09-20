@@ -59,7 +59,7 @@ Money, dowry and inheritance:
 Economies of marriage and work
 - Capitalism and globalization have changed the nature of marital relations: affects gender equations, love, conjugality.
 - Marriage acts as a way to control a woman's sexuality, at the same time provide benefits: it can assure housing/skills. 
-	- A woman is now seen as another labourer, to be exploited by the families exchanging her through marriage. 
+	- A woman is now seen as another labourer, to be exploited by the families exchanging her through marriage, as explained in [[Y1 T1 Society/READINGS/PRIMARY/SOC3.08 Bourdieu, The Forms of Capital\|SOC3.08 Bourdieu, The Forms of Capital]].
 	- Delay of marriage to keep her labour and income for longer.
 - Compatibility and personal happiness are also considered.
 	- Personal choice is gaining importance, without diminishing the importance of parental approval. 
