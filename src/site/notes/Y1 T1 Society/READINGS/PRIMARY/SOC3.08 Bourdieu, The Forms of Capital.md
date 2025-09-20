@@ -57,3 +57,9 @@ Social Capital
 - Through the exchange of a woman, ([[Y1 T1 Society/CONCEPTS/Gender\|Gender]], [[Y1 T1 Society/CONCEPTS/Feminism\|Feminism]]) two families are joined together. ([[Y1 T1 Society/READINGS/PRIMARY/SOC6.20 Palriwala & Kaur, Marrying in South Asia - Shifting Concepts, Changing Practices in a Globalizing World\|SOC6.20 Palriwala & Kaur, Marrying in South Asia - Shifting Concepts, Changing Practices in a Globalizing World]])
 
 Conversions
+- Economic capital is the root of all forms of capital
+- Other forms of capital are hidden results of economic capital.
+- Law of conservation of social energy: profits in one area = costs in another. 
+- Everything that hides economic capital has a higher chance of producing loss.
+	- EX: transmission of cultural capital may fail.
+- Liquidity of commercial capital means it is not very long-lasting.
