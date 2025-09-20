@@ -31,6 +31,28 @@ For surplus women:
 
 For surplus men:
 - Seen as a more pressing problem, since men occupy dominant/superior positions in the family, with the right to inherit property and carry on the family name. ([[Y1 T1 Society/CONCEPTS/Gender\|Gender]], [[Y1 T1 Society/CONCEPTS/Feminism\|Feminism]])
+- Hence, men cannot be gotten rid of the same way women are.
 1. Imposing celibacy on surplus men
 2. Marrying pre-pubescent girls to men
 	- To maintain the "purity" of the girl, so that she does not love or know any other man, pre-pubescent girls were promised in marriage to significantly older men. 
+
+How the institution of caste spread among the non-Brahmin population:
+Traditional view:
+- A lawgiver, such as Manu, imposed the caste system on the rest of society. 
+- Ambedkar refutes this theory by arguing that the caste system existed long before, Manu simply codified existing rules. 
+- He refutes the theory of Brahmin imposition of caste similarly.
+
+Western scholars' theories of occupation-, belief-, migration-, etc. based caste systems:
+- Refutes these arguments by saying that most other countries have similar differences and circumstances, but none of them follow caste.
+
+Ambedkar's theory:
+- "Some closed the door: others found it closed against them."
+	- References the loss of the open-door character caste used to have. 
+- Psychological interpretation: the Brahmin caste was imitated by other castes.
+	- ==Gabriel Tarde's laws of imitation==: 
+		1. Nobility will always imitate its leaders, kings or sovereigns, and the people will imitate the nobility. 
+		2. The extent and intensity of imitation is inversely proportional to distance. (imitation to the nearest)
+- Conditions for the formation of castes by imitation:
+	- Source must enjoy prestige in society
+		- Brahmins seen as semi-gods in Hindu society.
+	- Must be "numerous and daily relations" among members of the source and the rest of society
