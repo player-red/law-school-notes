@@ -56,3 +56,7 @@ Ambedkar's theory:
 	- Source must enjoy prestige in society
 		- Brahmins seen as semi-gods in Hindu society.
 	- Must be "numerous and daily relations" among members of the source and the rest of society
+		- Those whose social positions are further away have adopted only a few strategies to solve endogamy, and others only belief in caste.
+- Mechanistic process:
+	- Inevitable, since some shut their doors on others.
+	- This is because a caste cannot exist by itself, it is a relational concept built on the belief that some are superior and others inferior. 
