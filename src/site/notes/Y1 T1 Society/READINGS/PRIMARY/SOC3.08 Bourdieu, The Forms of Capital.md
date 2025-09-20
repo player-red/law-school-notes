@@ -30,7 +30,13 @@ Cultural capital
 	- transmitted to children during the socialization period, called the period of accumulation.
 	- free time for this sort of education is obtained from the time freed up by domestic labour.
 	- form of capital that is hidden in the best way, cannot be censored and controlled in ways that other forms of capital are.
+	- functions as symbolic capital: unrecognized as capital and perceived as legitimate competence.
 2. Objectified state: literal physical objects.
 3. Institutionalized state
 	- embodied + objectified = same biological limits as bearer, cannot be transmitted.
 	- eg: a certificate confirming competence.
+- EX: Children from better socioeconomic backgrounds often perform better in school — correlation between not only economic capital but also cultural capital and academic performance.
+	- Monetary investments: school fees, cash equivalent of time dedicated to study, etc.
+	- However, people of different social classes invest different amounts of economic and cultural capital in education. 
+	- Most well hidden educational investment: domestic transmission of cultural capital. 
+	- =="Talent/ability"== is the result of investment of time (bought by economic capital) and cultural capital.
