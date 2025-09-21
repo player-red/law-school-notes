@@ -35,7 +35,7 @@ Mid-twentieth century kinship
 
 [[Y1 T1 Society/PEOPLE/David Schneider\|David Schneider]]'s role:
 - Reformulated the anthropology of kinship.
-- Belonged to a tradition that saw kinship & culture like languages: by studying terminology used in a particular, one could reveal insights about the idea of kinship in that culture. 
+- Belonged to a tradition that saw kinship & culture like languages: by studying terminology used in a particular instance, one could reveal insights about the idea of kinship in that culture. 
 	- Schneider specifically studied cultural meanings, i.e. the meaning of symbols and gestures rather than how groups functioned or compare literal linguistic terms.
 	- This is called ==symbolic interactionism==. [[Y1 T1 Society/PEOPLE/Satish Deshpande\|Satish Deshpande]] talks about this in [[Y1 T1 Society/READINGS/PRIMARY/SOC1.03 Deshpande, Contemporary India - A Sociological View\|SOC1.03 Deshpande, Contemporary India - A Sociological View]], about Edmund Husserl's perspective of [[Y1 T1 Society/CONCEPTS/Commonsense\|Commonsense]]: the sharing of social meaning using symbols, gestures, etc. 
 - Part of the anthropological shift from function to meaning.
