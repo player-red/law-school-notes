@@ -39,7 +39,7 @@ Mid-twentieth century kinship
 	- Schneider specifically studied cultural meanings, i.e. the meaning of symbols and gestures rather than how groups functioned or compare literal linguistic terms.
 	- This is called ==symbolic interactionism==. [[Y1 T1 Society/PEOPLE/Satish Deshpande\|Satish Deshpande]] talks about this in [[Y1 T1 Society/READINGS/PRIMARY/SOC1.03 Deshpande, Contemporary India - A Sociological View\|SOC1.03 Deshpande, Contemporary India - A Sociological View]], about Edmund Husserl's perspective of [[Y1 T1 Society/CONCEPTS/Commonsense\|Commonsense]]: the sharing of social meaning using symbols, gestures, etc. 
 - Part of the anthropological shift from function to meaning.
-- He critiqued the relationship between biological and cultural aspects of kinships by challenging an assumption that European scholars held.
+- He critiqued the relationship between biological and cultural aspects of kinship by challenging an assumption that European scholars held.
 	- This assumption was that the main aspect of kinship was sexual procreation. 
 - Critique of his work: never abandoned the dichotomy of biological and social kinship. 
 
