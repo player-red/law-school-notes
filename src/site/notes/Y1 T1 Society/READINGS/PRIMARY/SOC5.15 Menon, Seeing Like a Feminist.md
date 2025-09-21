@@ -40,7 +40,7 @@ tags: #feminism, #gender, #patriarchy
 - [[Y1 T1 Society/PEOPLE/Judith Butler\|Judith Butler]]: theory of [[Y1 T1 Society/CONCEPTS/Performativity\|Performativity]] due to the influence of the [[Y1 T1 Society/CONCEPTS/Heterosexual Matrix\|Heterosexual Matrix]].
 
 - Current understanding of male and female body: each are distinct with distinct primary and secondary sexual characteristics, anyone who is different is 'deviant/abnormal'.
-	- Gynaecomastia (growing of breasts, affect 1/3rd men), hormonal inducing of lactation in both men and women.
+	- Gynaecomastia (growing of breasts, affects 1/3rd men), hormonal inducing of lactation in both men and women.
 	- Biomedical sciences treat the presence of male and female hormones together in one body as abnormal due to the gender binary.
 	- Today, we use the gender binary, but the theory till the 18th century was that women were simply lesser versions of men. 
 - Intersex people, by definition do not fit into the heterosexual matrix, so they are assigned a gender at birth, given surgeries and raised as a particular gender. 
