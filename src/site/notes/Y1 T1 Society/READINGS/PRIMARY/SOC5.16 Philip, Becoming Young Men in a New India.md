@@ -7,7 +7,7 @@ tags: #feminism, #gender, #patriarchy , #caste, #class
 
 Pointers:
 
-- Used [[Y1 T1 Numbers/CONCEPTS/Ethnography\|Ethnography]] as the main research method.
+- Used [[ARCHIVE/Y1 T1 Numbers/CONCEPTS/Ethnography\|Ethnography]] as the main research method.
 - Patriarchy is a result of caste and class relations, and both are intertwined.
 	- Working class women are allowed to move through 'public spaces', but upper-class/caste women are gated and kept 'pure'.
 
@@ -34,7 +34,7 @@ Grooming, Roaming and Protecting
 	- Young men are extremely mobile and access to every form of transportation, but are annoyed by the presence of women-only coaches + the presence of women in the general coach. 
 - Protecting: they see themselves as the saviors of their female relatives, from the 'uncivilized' low-class, migrant (often), poor men. 
 	- They think the city is naturally unsafe and try to limit the movement of their female relatives due to their sense of responsibility. (paternalism)
-	- Hypocrisy: they make lewd comments and gestures towards women they saw while roaming, even trying to touch them. 
+	- Hypocrisy: they made lewd comments and gestures towards women they saw while roaming, even trying to touch them. 
 - Grooming: young men are surrounded by images of what their bodies should look like, eg muscular, hairless, fair, active, and heterosexual. 
 	- They believe women enjoy seeing them in this way. 
 
