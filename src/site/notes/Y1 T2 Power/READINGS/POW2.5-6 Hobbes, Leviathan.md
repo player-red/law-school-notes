@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/y1-t2-power/readings/pow-2-5-6-hobbes-leviathan/"}
 ---
 
-/Written by [[Y1 T2 Power/PEOPLE/Thomas Hobbes\|Thomas Hobbes]].
+Written by [[Y1 T2 Power/PEOPLE/Thomas Hobbes\|Thomas Hobbes]].
 
 Chapter 11
 (22) Ignorance of remote causes — can be connected to the lack of [[ARCHIVE/Y1/Y1 T1/Y1 T1 Society/CONCEPTS/The Sociological Imagination\|The Sociological Imagination]].
