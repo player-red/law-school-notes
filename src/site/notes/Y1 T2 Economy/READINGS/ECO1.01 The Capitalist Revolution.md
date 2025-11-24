@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/y1-t2-economy/readings/eco-1-01-the-capitalist-revolution/"}
 ---
 
-/Unit 1
+Unit 1
+[[Y1 T2 Economy/CONCEPTS/Capitalism\|Capitalism]]
 
 - In older times, the difference between the average incomes of people living in different countries from all over the world was negligible.
 - Now, income inequality is the new norm — with the poorest 10% of some countries being richer than the richest 10% of others.

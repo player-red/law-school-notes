@@ -3,7 +3,8 @@
 ---
 
 pg. 189-210
-/
+To be read with [[Y1 T2 Economy/READINGS/ECO1.01 The Capitalist Revolution\|ECO1.01 The Capitalist Revolution]].
+
 Definition
 GDP: market value of all final goods and services produced within a country in a given period of time. 
 Excludes: items produced and consumed at home, quality of the environment.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/y1-t2-economy/readings/eco-10-01-social-interactions/"}
 ---
 
-/Unit 4
+Unit 4
 - Game theory: way of understanding how people interact and decide their actions based on their motives, beliefs and circumstantial constraints. 
 	- Motives: self-interest, concern for others, fairness. 
 - Interactions include both conflicts of interest and opportunity for mutual gain. 

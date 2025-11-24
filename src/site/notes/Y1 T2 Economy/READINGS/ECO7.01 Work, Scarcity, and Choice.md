@@ -74,3 +74,15 @@ Income and substitution effects on hours of work and free time
 	- w = wages
 	- t = hours of free time
 - This is called budget constraint. 
+- MRS = MRT = w is the optimal combination of consumption and free time. 
+- Effect of additional unearned income on the choice of free time = ==income effect== = fewer hours worked (no change in opportunity cost)
+- Increase in wages = more hours worked.
+	- MRS is higher. 
+	- Opportunity cost of free time is higher and MRT is higher. 
+	- This creates an incentive to work more.
+	- Called the ==substitution effect==. 
+
+- Milton Friedman explained that ordinary people use trial and error instead of these complicated calculations to balance their levels of work and consumption. 
+- The above model is quite unrealistic since most people cannot choose their hours, rather their employers select their hours for them. 
+- The preferences of workers can change the MRS and increase their working hours. 
+- The upper class became extremely rich and had lavish spending habits, making people with lesser income increase their ==conspicuous consumption==, by copying their spending habits. 
