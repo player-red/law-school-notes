@@ -3,3 +3,4 @@
 ---
 
 my beloved
+wrote [[ARCHIVE/Y1/Y1 T1/Y1 T1 Society/READINGS/PRIMARY/SOC2.05 Marx & Engels, The Communist Manifesto\|SOC2.05 Marx & Engels, The Communist Manifesto]] and [[Y1 T2 Power/READINGS/POW2.9 Marx, Estranged Labour\|POW2.9 Marx, Estranged Labour]].
