@@ -75,7 +75,7 @@ Another definition of self-respect
 		- Community resources used for personal advancement --> ignoring the use of mass movements. 
 		- The desire to become socially mobile/bourgeois leads to internal aggression and external appeal, and the adoption of paternal liberalism.
 	- Invisible portion of the Dalit community: ragpickers, construction workers, scavengers, etc. 
-		- Outside of the framework of the liberal democracy, since they are unable to claim control over the state. 
+		- Outside of the framework of the liberal democracy, since they are unable to claim control over the [[Y1 T2 Power/CONCEPTS/State\|State]]. 
 		- There is an overt absence of the language of rights, preventing their assertion of dignity and liberty.
 - Ambedkar says liberal democracy failed for various reasons:
 	- Its institutions cannot exorcise the ghost of caste. 

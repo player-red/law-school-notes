@@ -16,4 +16,4 @@ Static games:
 
 Nash equilibrium: 
 - No player's expected outcome can be improved by changing strategy.
-- Prisoner's dilemma is an example of the Nash equilibrium. /
+- Prisoner's dilemma is an example of the Nash equilibrium. 

@@ -22,6 +22,10 @@ Growth in income
 - Growth rate = change in income/original level of income
 - Before the Industrial Revolution, living standards did not improve in a sustained way. 
 - The improvement of living standards began at different times for different countries, hence leading to income disparity between countries that started earlier and those that started later.
+- If plotted on a graph, it looks like a hockey stick. 
+To measure income inequality:
+- 90/10 ratio: average income of the richest 10% divided by the average income of the poorest 10%
+	- On excel: 10th decile/1st decile income
 
 Technology
 - In economics, it is a process that takes a set of materials and other inputs (work of people and machines, time, energy, etc.) and creates an output. 
