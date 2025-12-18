@@ -52,6 +52,7 @@ Another definition of self-respect
 	- Scholars who argue along these lines would say that this interferes with the impersonal aspect of political power. 
 	- This argument suggests that there was a previous state in which public institutions were not imbued with casteism, and that reservations introduce it. 
 	- The Dalit lived experience challenges this argument, since public officials are often interested in the caste of the Dalit rather than their capability. 
+	- Enforces the [[ARCHIVE/Y1/Y1 T1/Y1 T1 Society/CONCEPTS/Paradox of Castelessness\|Paradox of Castelessness]] which proposes that upper-caste individuals are the only holders of merit.
 - Upper-castes choose to enforce their social authority and constantly test Dalits. 
 	- Dalits face the compulsion to remain rational and act unemotional. 
 	- It also enforces the view that only upper-castes are rational. 

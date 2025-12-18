@@ -3,7 +3,7 @@
 ---
 
 pg. 189-210
-To be read with [[Y1 T2 Economy/READINGS/ECO1.01 The Capitalist Revolution\|ECO1.01 The Capitalist Revolution]].
+To be read with [[Y1 T2 Economy/READINGS/ECO1.01 The Capitalist Revolution\|ECO1.01 The Capitalist Revolution]], [[Y1 T2 Economy/CONCEPTS/Capitalism\|Capitalism]] and [[Y1 T2 Economy/PEOPLE/Adam Smith\|Adam Smith]].
 
 Definition
 GDP: market value of all final goods and services produced within a country in a given period of time. 
@@ -19,7 +19,7 @@ Final goods: no further production will take place, sold to consumers. Only fina
 
 - Gross National Product (GNP): total income earned by permanent residents/nationals. Includes income earned abroad by residents and excludes income earned by foreigners in the country.
 - Net National Product (NNP): total income of a nation's residents minus depreciation. 
-	- Depreciation: consumption. of fixed capital. 
+	- Depreciation: consumption of fixed capital. 
 - National income: total income earned by a nation's residents in producing goods and services.
 	- Almost the same as NNP, only differs due to statistical discrepancy.
 - Personal income: income received by households and noncorporate businesses. Includes income from holdings of government debt and transfer programs. Excludes retained earnings. Subtracts indirect business taxes, corporate income taxes and contributions for social insurance. 
@@ -45,6 +45,7 @@ Real GDP vs Nominal GDP
 	- It uses fixed prices.
 
 GDP Deflator
+- Reflects only change in price levels, unlike nominal (both price and quantity) and real (only quantity).
 (Nominal GDP/Real GDP) x 100
 
 Inflation: when the general price levels of an economy rise.

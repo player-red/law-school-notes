@@ -11,10 +11,24 @@
 - Any contract that lacks consideration is void. Section 25 (1) of the [[Y1 T2 Contracts I/READINGS/Indian Contract Act, 1872\|Indian Contract Act, 1872]] is an exception which states that as long as there is formality (registered under law), consideration is not required. 
   Another exception: when someone has already voluntarily done something for the promisor or something which the promisor was legally compellable to do. 
 - Past consideration is not good consideration. 
-- Interpreting Section 25(2) of the ICA: [[Y1 T2 Contracts I/CONCEPTS/Nexus\|Nexus]] still required despite past consideration. 
+- Section 24: if consideration or object is unlawful, the agreement is void.
+- Section 25: agreements without consideration are void, unless:
+	- (1) It is expressed in writing and registered.
+	- (2) A promise to compensate for an act already done, or something they are legally compelled to do.
+		- Interpreting Section 25(2) of the ICA: [[Y1 T2 Contracts I/CONCEPTS/Nexus\|Nexus]] still required despite past consideration. 
+	- (3) A promise made in writing and signed for the enforcement of the law for limitation of suits.
+
+- Section 26: agreements restricting marriage are void.
+	- Exception: minors.
+- Section 27: agreements in restraint of trade are void.
+	- Exception: Agreement not to carry on business of which good will is sold.
+
 - Section 57: reciprocal promises.
 	- Mutual promises are legal = valid contract.
 	- Mutual promises are illegal = no valid contract.
+- Section 58: alternative promises.
+	- If one legal and the other illegal, only the legal may one be enforced.
+	- Example: A pays B 1,000 rupees. B promises to deliver either rice or smuggled opium. Valid contract for delivery rice, void agreement for opium. 
 
 - Section 23: lawful consideration, unless
 	- Forbidden by law or would defeat the provisions of any law

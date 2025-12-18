@@ -4,6 +4,8 @@
 
 Written by [[Y1 T2 Power/PEOPLE/Thomas Hobbes\|Thomas Hobbes]].
 
+Dominant idea of philosophy transitioned from virtue to liberty. 
+
 Chapter 11
 (22) Ignorance of remote causes — can be connected to the lack of [[ARCHIVE/Y1/Y1 T1/Y1 T1 Society/CONCEPTS/The Sociological Imagination\|The Sociological Imagination]].
 
@@ -17,7 +19,8 @@ Chapter 14
 - Laws of nature
 - Contracts
 
-Chapter 17
+- Introduced the distinction between the sovereign and the [[Y1 T2 Power/CONCEPTS/State\|State]].
+- Angered royalists since he suggested that the sovereign derived his power from the consent of the people, which is in direct opposition of the English monarch (divine representative of God). 
 
 
 

@@ -27,6 +27,9 @@ To measure income inequality:
 - 90/10 ratio: average income of the richest 10% divided by the average income of the poorest 10%
 	- On excel: 10th decile/1st decile income
 
+[[Y1 T2 Economy/PEOPLE/Adam Smith\|Adam Smith]]'s theory:
+- No single institution or person shapes the coordination among economic actors, it is the self interest of a mass of individuals that does this. 
+
 Technology
 - In economics, it is a process that takes a set of materials and other inputs (work of people and machines, time, energy, etc.) and creates an output. 
 - Structural transformation is the moving away of labour from the agricultural sector of the economy.

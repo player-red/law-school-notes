@@ -4,6 +4,8 @@
 
 By Rajeev Bhargava.
 
+Text enclosed in the dotted lines is not part of the required reading.
+----------------
 Objectives of the reading:
 - To understand how political theory is different from ideology, cosmology and other social sciences.
 - To be aware of the types of political theory.
@@ -77,3 +79,53 @@ What is political?
 - If 'political' meant values common to all humanity, two more conceptions of power are created:
 	- The values by which a particular community governs its life.
 	- A grand political theory that reflects on the general condition of the entire human kind or values by which all of humanity may govern their lives.
+------------------
+
+Functions of political theory:
+- Explains at the most general level possible
+- Evaluates and tells us what we should do
+- Speculates about our current and future condition
+- Tells us who we are.
+The questions of human life cover
+- Understanding
+- Explanation
+- Prediction
+- Ethics
+- Normative ideals
+- Metaphysical self-knowledge
+These questions are raised when:
+- An individual feels alienation from the community: crisis of mutual understanding
+- Entry of a stranger who causes curiosity and dissonance
+- Unpredictable changes in the natural world
+In order to answer these questions, communities create cosmologies, which create narratives to make sense of the chaos. ([[ARCHIVE/Y1/Y1 T1/Y1 T1 Society/CONCEPTS/Commonsense\|Commonsense]] is informed by these cosmologies).
+
+Role of social and political theory:
+1. Interpretative and explanatory role: pre-reflective conceptual understanding is grasped and made explicit.
+2. Inquiry using a speculative jump: explains using theory on a general level. Provides insights into general patterns of human practices and explanations for large-scale phenomena.
+3. Normative role: evaluates the dimensions of human actions and institutions, addressing questions of justice, rights and morality.
+
+Political theory declined in modern ages due to the importance of the empirical sciences. This is due to positivism, which rejects subjectivity and requires observable facts. However, it is still necessary because:
+- Values and facts are intertwined. This makes it necessary to employ the use of subjectivity, especially if studying the social world.
+- Human phenomena are inherently normative, making empirical science by itself inadequate.
+
+Need for political theory:
+- General despite different context: provide frameworks for a large range of situations.
+- Managing disagreement in pluralist societies.
+- Answering ethical questions which cannot be answered by empirical sciences alone. 
+
+Types of political theory:
+- Interpretive and explanatory.
+	- Such as [[ARCHIVE/Y1/Y1 T1/Y1 T1 Society/PEOPLE/Karl Marx\|Karl Marx]]'s theory of historical materialism and Weber's analysis of Protestant ethic.
+- Normative.
+- Contemplative.
+	- Gandhi's Hind Swaraj.
+	- [[Y1 T2 Power/PEOPLE/Hannah Arendt\|Hannah Arendt]]'s The Human Condition.
+
+Relationship between theory and ideology
+- Both guide human action through persuasion.
+- Theory is based on reason, truth and objectivity. Any claims it makes are generally backed up by evidence.
+- Ideology is more concerned with prescribing action, less bothered about reasoning, prioritizing efficiency.
+
+Relevance of political theory in modern societies:
+- Ethical prescription
+- General understanding.
