@@ -4,4 +4,3 @@
 
 - Occurs when the offerree makes an offer of their own to the offeror. 
 - Kills the original offer.
-/
