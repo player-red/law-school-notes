@@ -21,4 +21,4 @@ Court's decision:
 - Convicted both, lighter sentence for man since he was unable to take care of himself. 
 - Duty of care existed, whether the deceased was a blood relative or not. The appellants were aware of her condition.
 - It is an obvious case of recklessness since there was indifference to the deceased's condition, which was an obvious risk. 
-  Recklessness: indifference to an obvious risk of injury to health, or to foresee the risk and run it anyway. /
+  Recklessness: indifference to an obvious risk of injury to health, or to foresee the risk and run it anyway. 
