@@ -16,4 +16,4 @@ Arguments:
 - Plaintiff says liability began from 19th November, liable for flour sent not exceeding five sacks. 
 
 Decision:
-- Jury's decision was that the defendant was only liable for 1 1/2 sacks, and the guarantee did not continue beyond the first five sacks. Judges all agreed. /
+- Jury's decision was that the defendant was only liable for 1 1/2 sacks, and the guarantee did not continue beyond the first five sacks. Judges all agreed. 
