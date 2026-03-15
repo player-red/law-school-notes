@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/y1-t3-criminal-law-i/cases/jai-prakash-vs-state-delhi-administration/"}
 ---
 
-/
+
 Facts:
 - Appellant convicted for murder of victim. 
 - Appellant visited victim's wife late at night. Victim came home and there was an altercation. Appellant stabbed victim in the chest, killing him. 
