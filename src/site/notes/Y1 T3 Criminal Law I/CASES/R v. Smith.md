@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/y1-t3-criminal-law-i/cases/r-v-smith/"}
 ---
 
-/
 Facts:
 - Respondent a soldier charged with the murder of another regiment's soldier during a fight. 
 - Sergeant-major kept all the men there on parade to learn who had been involved in the fight. 
