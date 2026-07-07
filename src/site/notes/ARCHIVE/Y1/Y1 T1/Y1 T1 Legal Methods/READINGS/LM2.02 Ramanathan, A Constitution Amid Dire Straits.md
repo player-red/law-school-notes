@@ -17,7 +17,7 @@ Manual scavengers
 - Article 17 abolished the practice of untouchability with the introduction of the Constitution in 1950. 
 - Using Article 252(1), the Employment of Manual Scavengers and Construction of Dry Latrines (Prohibition) Act 1993 was passed, along with support from the state legislations of multiple states. 
 - Parliament finally recognized the need to abolish manual scavenging and to have a uniform legislation in order to do so. Also established National Commission for Safai Karamcharis in the same year. 
-- The presence of [[ARCHIVE/Y1/Y1 T1/Y1 T1 Society/CONCEPTS/Caste\|Caste]] tensions was undeniable, and addressed by Narayanamma, who worked as a manual scavenger, as work that was forced upon the "untouchable" caste.
+- The presence of [[Y1 T1 SOC Society/CONCEPTS/Caste\|Caste]] tensions was undeniable, and addressed by Narayanamma, who worked as a manual scavenger, as work that was forced upon the "untouchable" caste.
 - Safai Karamchari Andolan became a movement with the goal of eradicating manual scavenging. 
 - Padayatras held to demolish dry latrines. 
 - The ending of this practice needs the workers themselves to withdraw, which is difficult since they are trained to believe that it is their role in society. 

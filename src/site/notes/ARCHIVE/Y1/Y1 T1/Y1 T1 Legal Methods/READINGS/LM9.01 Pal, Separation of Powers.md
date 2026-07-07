@@ -81,7 +81,7 @@ Introduction
 	- Supposed to be free from any interference from the executive, since it is the body that handles elections. 
 	- Parliament can make laws pertaining to it as long as it does interfere with basic provisions, cannot do so during the process of election. 
 2. Comptroller and auditor general
-	- Most important officer in the Constitution — [[ARCHIVE/Y1/Y1 T1/Y1 T1 Society/PEOPLE/Dr B. R. Ambedkar\|Dr B. R. Ambedkar]]'s opinion. 
+	- Most important officer in the Constitution — [[Y1 T1 SOC Society/PEOPLE/Dr B. R. Ambedkar\|Dr B. R. Ambedkar]]'s opinion. 
 	- Cannot examine expenditure before it is decided, and hence cannot regulate freebies promised by political parties. 
 	- Appointed on recommendation of PM by President — not as independent as the judiciary. 
 	- Not assured of tenure and cannot independently select officers and servants.
