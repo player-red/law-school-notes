@@ -42,6 +42,6 @@ Development of the Modern Census
 - In order to standardize classification, standard names and variations were assigned to various castes. 
 - Aggregation of castes led to more problems: separation of castes into 'castes of good social position' and 'inferior castes'.
 
-/
+
 
 [[Y2 T1 SOC Social Forces (MC I)/PEOPLE/Verrier Elwin\|Verrier Elwin]], [[Y1 T1 SOC Society/READINGS/PRIMARY/SOC7.24 Roluahpuia, Nationalism in the Vernacular - States, Tribes and the Politics of Peace in Northeastern India\|SOC7.24 Roluahpuia, Nationalism in the Vernacular - States, Tribes and the Politics of Peace in Northeastern India]]: many castes deemed 'aboriginal'.
