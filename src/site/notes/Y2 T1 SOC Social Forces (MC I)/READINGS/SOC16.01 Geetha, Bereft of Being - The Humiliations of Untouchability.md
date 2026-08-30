@@ -32,4 +32,3 @@ The Impossibility of History
 The Body of Knowledge
 - Injustice became a holy act sanctioned by god. 
 - Challenging the caste order requires a commitment to challenging history.
-
