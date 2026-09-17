@@ -3,7 +3,7 @@
 ---
 
 Chapter 5 in Black Skin, White Masks. pp. 109-140. 
-
+keyword: racial epidermal schema
 - Black person reduced to an object when in the company of people of other races, with constant internal conflict.
 - A black man is black in relation to a white man. The civilization of white men forced black people to conform to its customs and standards and imposed itself upon them (through colonisation).
 - A black person is constantly conscious of their body when with white people, from a third person perspective. 
