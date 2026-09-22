@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/state-of-maharashtra-v-mayer-hans-george/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/state-of-maharashtra-v-mayer-hans-george/","dg-note-properties":{}}
 ---
 
 Statute(s) used for this case: Foreign Exchange Regulation Act, 1947 and Sea Customs Act, 1878.

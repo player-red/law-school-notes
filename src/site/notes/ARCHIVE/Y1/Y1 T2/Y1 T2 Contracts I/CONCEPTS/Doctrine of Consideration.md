@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/doctrine-of-consideration/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/doctrine-of-consideration/","dg-note-properties":{}}
 ---
 
 [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Consideration\|Consideration]] and its relationship with contracts:

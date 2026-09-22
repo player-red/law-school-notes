@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/pc-chacko-v-chairman-lic-india/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/pc-chacko-v-chairman-lic-india/","dg-note-properties":{}}
 ---
 
 Supreme Court of India

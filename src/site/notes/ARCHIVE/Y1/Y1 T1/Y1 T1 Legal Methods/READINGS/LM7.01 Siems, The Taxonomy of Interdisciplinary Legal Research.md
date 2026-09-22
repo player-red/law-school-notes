@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-7-01-siems-the-taxonomy-of-interdisciplinary-legal-research/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-7-01-siems-the-taxonomy-of-interdisciplinary-legal-research/","dg-note-properties":{}}
 ---
 
 oFinding the Way Out of the Desert

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-13-01-rousseau-the-social-contract/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-13-01-rousseau-the-social-contract/","dg-note-properties":{}}
 ---
 
 From Selections on Book II, Chapters I to VII (pp. 63-79).

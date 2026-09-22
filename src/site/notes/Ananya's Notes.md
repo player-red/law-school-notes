@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ananya-s-notes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ananya-s-notes/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 

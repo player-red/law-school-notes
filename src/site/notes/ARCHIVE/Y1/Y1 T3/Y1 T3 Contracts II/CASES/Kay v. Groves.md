@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-contracts-ii/cases/kay-v-groves/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-contracts-ii/cases/kay-v-groves/","dg-note-properties":{}}
 ---
 
 A case involving a [[ARCHIVE/Y1/Y1 T3/Y1 T3 Contracts II/CONCEPTS/Guarantee\|Guarantee]].

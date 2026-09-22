@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-11-01-taylor-modes-of-secularism/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-11-01-taylor-modes-of-secularism/","dg-note-properties":{}}
 ---
 
 Meaning of secularism

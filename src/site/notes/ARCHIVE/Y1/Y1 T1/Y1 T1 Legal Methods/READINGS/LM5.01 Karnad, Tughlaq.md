@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-5-01-karnad-tughlaq/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-5-01-karnad-tughlaq/","dg-note-properties":{}}
 ---
 
 Scene 1

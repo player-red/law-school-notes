@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-history/readings/week-2/his-2-3-lenski-slavery-in-the-roman-empire/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-history/readings/week-2/his-2-3-lenski-slavery-in-the-roman-empire/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-6-21-vera-sanso-misconceiving-the-indian-family-the-politics-of-family-based-discourse/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-6-21-vera-sanso-misconceiving-the-indian-family-the-politics-of-family-based-discourse/","dg-note-properties":{"share_link":"https://share.note.sx/fnxstz9k#A4gDK4ftuG9eNQLCu9GmkfZq3jUb0y+TIn5h8eojHxs","share_updated":"2025-08-21T23:35:07+05:30"}}
 ---
 
 (pg 47-71)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/satish-deshpande/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/satish-deshpande/","dg-note-properties":{}}
 ---
 
 Wrote [[Y1 T1 SOC Society/READINGS/PRIMARY/SOC1.03 Deshpande, Contemporary India - A Sociological View\|SOC1.03 Deshpande, Contemporary India - A Sociological View]], covering [[Y1 T1 SOC Society/CONCEPTS/Commonsense\|Commonsense]], modernity, globalization, [[Y1 T1 SOC Society/CONCEPTS/Caste\|Caste]], middle class, etc. He explained the [[Y1 T1 SOC Society/CONCEPTS/Paradox of Castelessness\|Paradox of Castelessness]] by talking about how upper-caste individuals converted their historic caste capital into modern capital by considering themselves casteless, and framed lower-caste individuals as the one perpetuating caste by demanding representation through reservations. 

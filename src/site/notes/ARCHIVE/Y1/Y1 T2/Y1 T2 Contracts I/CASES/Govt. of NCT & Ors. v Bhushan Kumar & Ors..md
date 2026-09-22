@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/govt-of-nct-and-ors-v-bhushan-kumar-and-ors/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/govt-of-nct-and-ors-v-bhushan-kumar-and-ors/","dg-note-properties":{}}
 ---
 
 Facts:

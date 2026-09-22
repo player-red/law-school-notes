@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-1-03-deshpande-contemporary-india-a-sociological-view/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-1-03-deshpande-contemporary-india-a-sociological-view/","dg-note-properties":{"share_link":"https://share.note.sx/ijcso0n2#JY6iJe6bcCI7PrvGLqfrPhxm83m3KO2W5H+cSa+7Iks","share_updated":"2025-08-18T22:08:39+05:30"}}
 ---
 
 

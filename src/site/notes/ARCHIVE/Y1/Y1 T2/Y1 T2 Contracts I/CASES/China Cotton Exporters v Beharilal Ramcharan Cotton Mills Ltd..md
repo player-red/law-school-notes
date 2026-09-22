@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/china-cotton-exporters-v-beharilal-ramcharan-cotton-mills-ltd/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/china-cotton-exporters-v-beharilal-ramcharan-cotton-mills-ltd/","dg-note-properties":{}}
 ---
 
 Facts:

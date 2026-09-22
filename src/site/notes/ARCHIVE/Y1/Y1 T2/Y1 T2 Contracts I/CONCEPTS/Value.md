@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/value/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/value/","dg-note-properties":{}}
 ---
 
 - Famously defined in Curie v Misa, as the interest or benefit accruing to one party or some detriment or loss undertaken by another. 

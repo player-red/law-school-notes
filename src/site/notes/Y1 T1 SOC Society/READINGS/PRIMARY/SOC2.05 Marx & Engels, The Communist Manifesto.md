@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-2-05-marx-and-engels-the-communist-manifesto/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-2-05-marx-and-engels-the-communist-manifesto/","dg-note-properties":{"share_link":"https://share.note.sx/umr9mzmk#Y3PoJUCe3LjAVzoyi62Y5B3TgL9YlK20KqMjuPB8bWM","share_updated":"2025-08-19T01:08:20+05:30"}}
 ---
 
 (pg 31-51)

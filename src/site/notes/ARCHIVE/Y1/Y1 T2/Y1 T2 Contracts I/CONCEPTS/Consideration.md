@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/consideration/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/consideration/","dg-note-properties":{}}
 ---
 
 - The benefit each party derives from the performance of the contract's promises.

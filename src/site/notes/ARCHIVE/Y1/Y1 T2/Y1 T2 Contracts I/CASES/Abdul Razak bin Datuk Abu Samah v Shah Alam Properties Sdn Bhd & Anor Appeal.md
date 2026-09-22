@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/abdul-razak-bin-datuk-abu-samah-v-shah-alam-properties-sdn-bhd-and-anor-appeal/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/abdul-razak-bin-datuk-abu-samah-v-shah-alam-properties-sdn-bhd-and-anor-appeal/","dg-note-properties":{}}
 ---
 
 [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Rescission\|Rescission]]

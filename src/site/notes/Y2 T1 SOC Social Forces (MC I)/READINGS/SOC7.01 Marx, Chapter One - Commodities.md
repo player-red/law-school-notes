@@ -3,7 +3,6 @@
 ---
 
 In Capital: Volume 1.
-Maybe we have to let go of the idea of expecting something in return for doing something for someone else for communism to function without exploitation?
 
 Section I: The Two Factors of a Commodity: Use-value and Value (The Substance of Value and the Magnitude of Value)
 - Capitalist mode of production: accumulation of commodities.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/r-v-stone-and-dobinson/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/r-v-stone-and-dobinson/","dg-note-properties":{}}
 ---
 
 Facts:

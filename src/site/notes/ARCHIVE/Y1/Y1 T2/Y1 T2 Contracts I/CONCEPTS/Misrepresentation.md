@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/misrepresentation/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/misrepresentation/","dg-note-properties":{}}
 ---
 
 Statements that are ==factually== false.

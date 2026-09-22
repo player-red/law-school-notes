@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/performativity/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/performativity/","dg-note-properties":{}}
 ---
 
 - Reiterative, repeated practices of [[Y1 T1 SOC Society/CONCEPTS/Gender\|Gender]] performance ingrained in us all. 

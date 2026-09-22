@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-2-02-ramanathan-a-constitution-amid-dire-straits/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-2-02-ramanathan-a-constitution-amid-dire-straits/","dg-note-properties":{}}
 ---
 
 An exploration of the Constitution through three different cases: 

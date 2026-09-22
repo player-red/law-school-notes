@@ -15,4 +15,4 @@
 	- Superstructures in civil society become the trenches in modern warfare.
 The Transition from the War of Manoeuvre to the War of Position in the Political Field as well
 - Leads to reinforcement of hegemony. 
-- A war of position is decisive definitively in politics.
+- A war of position is decisive definitively in politics. 

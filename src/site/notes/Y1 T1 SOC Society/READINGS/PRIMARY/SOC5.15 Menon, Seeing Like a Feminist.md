@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-5-15-menon-seeing-like-a-feminist/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-5-15-menon-seeing-like-a-feminist/","dg-note-properties":{"share_link":"https://share.note.sx/s263acmr#WSbN5Qs+CDhcsNciEaAtRHuhLFsaaNjgR4OMzN7foiM","share_updated":"2025-08-18T22:09:22+05:30"}}
 ---
 
 Chapter 2: 'Body'

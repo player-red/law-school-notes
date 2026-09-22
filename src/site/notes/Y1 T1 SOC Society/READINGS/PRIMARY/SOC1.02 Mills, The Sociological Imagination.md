@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-1-02-mills-the-sociological-imagination/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-1-02-mills-the-sociological-imagination/","dg-note-properties":{"share_link":"https://share.note.sx/ows9x12f#d5W1OHA0MAVw5xZQ2uAxzyO5WTOOHtTtLUTkUy1o3oU","share_updated":"2025-08-18T22:08:55+05:30"}}
 ---
 
 Chapter 1: The Promise

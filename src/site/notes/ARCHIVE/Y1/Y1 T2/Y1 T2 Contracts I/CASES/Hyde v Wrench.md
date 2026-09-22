@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/hyde-v-wrench/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/hyde-v-wrench/","dg-note-properties":{}}
 ---
 
 tags: #acceptance #counter_offer

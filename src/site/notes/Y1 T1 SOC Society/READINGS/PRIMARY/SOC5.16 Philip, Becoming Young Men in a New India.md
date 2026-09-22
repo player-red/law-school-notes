@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-5-16-philip-becoming-young-men-in-a-new-india/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-5-16-philip-becoming-young-men-in-a-new-india/","dg-note-properties":{"share_link":"https://share.note.sx/zisuxm0r#qwOkX5edq1Hg/dsyanU4sZ7lMVLjG/H7zQIk+slzbFo","share_updated":"2025-08-19T00:48:30+05:30"}}
 ---
 
 Introduction: Young Men in Neoliberal India (pg 1-29)

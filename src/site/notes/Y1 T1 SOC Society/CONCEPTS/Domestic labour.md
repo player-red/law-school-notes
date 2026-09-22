@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/domestic-labour/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/domestic-labour/","dg-note-properties":{}}
 ---
 
 - AKA reproductive labour by women

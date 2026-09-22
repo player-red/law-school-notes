@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/commissioner-of-wealth-tax-bhopal-v-abdul-hussain-mulla-muhammad-ali/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/commissioner-of-wealth-tax-bhopal-v-abdul-hussain-mulla-muhammad-ali/","dg-note-properties":{}}
 ---
 
 tags: #legalrelations_intention 

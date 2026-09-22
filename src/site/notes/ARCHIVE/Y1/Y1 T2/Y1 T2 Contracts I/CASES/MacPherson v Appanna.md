@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/mac-pherson-v-appanna/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/mac-pherson-v-appanna/","dg-note-properties":{}}
 ---
 
 tags: #invitation_to_treat #acceptance #offer 

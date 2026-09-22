@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-10-01-social-interactions/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-10-01-social-interactions/","dg-note-properties":{}}
 ---
 
 Unit 4

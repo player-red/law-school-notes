@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/mc-dermott-international-inc-v-burn-standard-co-ltd/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/mc-dermott-international-inc-v-burn-standard-co-ltd/","dg-note-properties":{}}
 ---
 
 Facts:

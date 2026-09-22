@@ -3,7 +3,7 @@
 ---
 
 By [[Y1 T1 SOC Society/PEOPLE/Émile Durkheim\|Émile Durkheim]], in Sociological Theory in the Classical Era: Text and Readings, 3rd edition.
-/
+
 - Argues that a society is a power controlling individuals and that it performs a regulatory function, which can affect the suicide rate in a country. 
 I
 - If suicide rates increase during times of crisis, he argues that they should decrease when comfort levels increase. 

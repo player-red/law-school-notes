@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y2-t1-constitutional-law-i/readings/cst-2-01-mill-considerations-on-representative-government/"}
+{"dg-publish":true,"permalink":"/y2-t1-constitutional-law-i/readings/cst-2-01-mill-considerations-on-representative-government/","dg-note-properties":{}}
 ---
 
 Chapter 6

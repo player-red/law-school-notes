@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-14-01-urbinati-political-theory-of-populism/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-14-01-urbinati-political-theory-of-populism/","dg-note-properties":{}}
 ---
 
 By Nadia Urbinati.

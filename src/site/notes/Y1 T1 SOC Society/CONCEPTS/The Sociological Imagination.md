@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/the-sociological-imagination/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/the-sociological-imagination/","dg-note-properties":{}}
 ---
 
 - Explained by [[Y1 T1 SOC Society/PEOPLE/C. Wright Mills\|C. Wright Mills]] in [[Y1 T1 SOC Society/READINGS/PRIMARY/SOC1.02 Mills, The Sociological Imagination\|SOC1.02 Mills, The Sociological Imagination]].

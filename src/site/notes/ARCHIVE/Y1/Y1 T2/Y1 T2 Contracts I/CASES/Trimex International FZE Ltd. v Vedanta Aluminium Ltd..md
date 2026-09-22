@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/trimex-international-fze-ltd-v-vedanta-aluminium-ltd/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/trimex-international-fze-ltd-v-vedanta-aluminium-ltd/","dg-note-properties":{}}
 ---
 
 Facts: email exchanges between the two parties led to an agreement between them on the supply of 5 shipments of bauxite to India. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-2-01-technology-population-and-growth/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-2-01-technology-population-and-growth/","dg-note-properties":{}}
 ---
 
 Unit 2

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-3-09-subramanian-making-merit/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-3-09-subramanian-making-merit/","dg-note-properties":{"share_link":"https://share.note.sx/zalwmdk8#aEwQO7muSgHwoJ96ygeqSATCQwPSx+QYZxp3O39Itaw","share_updated":"2025-08-19T23:28:31+05:30"}}
 ---
 
 (pg 291-322)

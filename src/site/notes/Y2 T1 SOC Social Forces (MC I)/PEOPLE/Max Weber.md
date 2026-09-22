@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y2-t1-soc-social-forces-mc-i/people/max-weber/"}
+{"dg-publish":true,"permalink":"/y2-t1-soc-social-forces-mc-i/people/max-weber/","dg-note-properties":{}}
 ---
 
 German sociologist, historian, jurist and political economist. 

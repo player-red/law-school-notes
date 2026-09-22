@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-7-23-dasgupta-and-rycroft-indigenous-pasts-and-the-politics-of-belonging/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-7-23-dasgupta-and-rycroft-indigenous-pasts-and-the-politics-of-belonging/","dg-note-properties":{"share_link":"https://share.note.sx/5vmxof9y#lCLxkk3+1Xt8pVzp6OyjwmbZas0LTlG61S6iPcM2+HA","share_updated":"2025-08-21T23:35:12+05:30"}}
 ---
 
 (pg 1-14)

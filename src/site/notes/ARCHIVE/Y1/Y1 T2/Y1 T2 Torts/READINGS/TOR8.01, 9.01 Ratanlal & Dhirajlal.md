@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-torts/readings/tor-8-01-9-01-ratanlal-and-dhirajlal/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-torts/readings/tor-8-01-9-01-ratanlal-and-dhirajlal/","dg-note-properties":{}}
 ---
 
 An omission is wrongful when a duty to act exists and that duty is breached. 

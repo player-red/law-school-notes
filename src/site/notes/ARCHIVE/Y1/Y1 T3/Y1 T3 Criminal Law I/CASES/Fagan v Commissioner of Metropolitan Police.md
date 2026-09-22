@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/fagan-v-commissioner-of-metropolitan-police/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/fagan-v-commissioner-of-metropolitan-police/","dg-note-properties":{}}
 ---
 
 Facts: 

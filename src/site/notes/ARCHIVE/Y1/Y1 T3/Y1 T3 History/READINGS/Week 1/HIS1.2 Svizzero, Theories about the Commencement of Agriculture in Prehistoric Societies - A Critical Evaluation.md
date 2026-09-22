@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-history/readings/week-1/his-1-2-svizzero-theories-about-the-commencement-of-agriculture-in-prehistoric-societies-a-critical-evaluation/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-history/readings/week-1/his-1-2-svizzero-theories-about-the-commencement-of-agriculture-in-prehistoric-societies-a-critical-evaluation/","dg-note-properties":{}}
 ---
 
 Introduction

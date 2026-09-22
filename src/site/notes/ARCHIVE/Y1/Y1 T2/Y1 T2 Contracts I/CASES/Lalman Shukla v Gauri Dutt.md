@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/lalman-shukla-v-gauri-dutt/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/lalman-shukla-v-gauri-dutt/","dg-note-properties":{}}
 ---
 
 tags: #offer #acceptance #knowledge_of_offer 

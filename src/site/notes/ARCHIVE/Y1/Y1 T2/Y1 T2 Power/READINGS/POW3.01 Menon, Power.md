@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-3-01-menon-power/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-3-01-menon-power/","dg-note-properties":{}}
 ---
 
 tags: #concepts, #power 

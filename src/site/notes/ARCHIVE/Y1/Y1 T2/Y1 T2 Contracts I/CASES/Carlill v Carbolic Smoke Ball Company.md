@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/carlill-v-carbolic-smoke-ball-company/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/carlill-v-carbolic-smoke-ball-company/","dg-note-properties":{}}
 ---
 
 tags: #invitation_to_treat #offer 

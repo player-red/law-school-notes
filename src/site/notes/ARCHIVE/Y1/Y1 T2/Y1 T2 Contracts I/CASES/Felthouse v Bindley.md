@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/felthouse-v-bindley/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/felthouse-v-bindley/","dg-note-properties":{}}
 ---
 
 [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Acceptance\|Acceptance]] must be communicated clearly and should not be imposed through the silence of one of the parties, ie. the uncle asking his nephew to be silent if the horse was to be sold to him. 

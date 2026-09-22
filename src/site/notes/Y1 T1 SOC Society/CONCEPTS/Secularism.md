@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/secularism/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/secularism/","dg-note-properties":{}}
 ---
 
 The ideology that demands [[Y1 T1 SOC Society/CONCEPTS/Religion\|Religion]] to take certain forms, acceptable or unacceptable, good or improper. 

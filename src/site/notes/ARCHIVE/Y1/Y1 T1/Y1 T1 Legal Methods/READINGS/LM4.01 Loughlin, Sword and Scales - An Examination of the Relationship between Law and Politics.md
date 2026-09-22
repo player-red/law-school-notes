@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-4-01-loughlin-sword-and-scales-an-examination-of-the-relationship-between-law-and-politics/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-4-01-loughlin-sword-and-scales-an-examination-of-the-relationship-between-law-and-politics/","dg-note-properties":{}}
 ---
 
 ==Chapter 1== (pp. 9-12)

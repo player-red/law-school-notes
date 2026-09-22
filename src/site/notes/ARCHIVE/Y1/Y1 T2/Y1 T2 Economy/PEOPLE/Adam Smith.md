@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/people/adam-smith/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/people/adam-smith/","dg-note-properties":{}}
 ---
 
 Classical economist, author of *An Inquiry into the Nature and Causes of the Wealth of Nations* and *The Theory of Moral Sentiments*.

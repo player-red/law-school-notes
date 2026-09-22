@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/marriage/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/marriage/","dg-note-properties":{}}
 ---
 
 - Legally recognized union between spouses.

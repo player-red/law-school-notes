@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/emile-durkheim/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/emile-durkheim/","dg-note-properties":{}}
 ---
 
 French sociologist known as one of the architects of modern social science, along with [[Y1 T1 SOC Society/PEOPLE/Karl Marx\|Karl Marx]] and Max Weber.

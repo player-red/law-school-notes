@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/adams-v-lindsell/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/adams-v-lindsell/","dg-note-properties":{}}
 ---
 
 Facts: A offered to sell certain goods to B by letter, B posted acceptance. Due to misdirection of the mail, the letter arrived two days later than it should have. By then, A already sold the goods to someone else.

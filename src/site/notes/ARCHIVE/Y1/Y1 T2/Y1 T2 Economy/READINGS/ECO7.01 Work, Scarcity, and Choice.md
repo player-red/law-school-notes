@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-7-01-work-scarcity-and-choice/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-7-01-work-scarcity-and-choice/","dg-note-properties":{}}
 ---
 
 Unit 3

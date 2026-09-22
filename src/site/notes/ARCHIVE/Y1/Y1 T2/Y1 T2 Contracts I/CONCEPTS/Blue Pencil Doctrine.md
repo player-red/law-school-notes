@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/blue-pencil-doctrine/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/blue-pencil-doctrine/","dg-note-properties":{}}
 ---
 
 A doctrine used when some parts of a contract are void or unenforceable whereas others are valid. This allows the enforceable provisions to stand despite the nullification of the unenforceable provisions, as long as the revised version represents the original meaning of the contract. 

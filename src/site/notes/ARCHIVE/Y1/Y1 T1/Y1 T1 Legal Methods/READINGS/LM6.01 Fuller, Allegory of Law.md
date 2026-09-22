@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-6-01-fuller-allegory-of-law/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-6-01-fuller-allegory-of-law/","dg-note-properties":{}}
 ---
 
 Eight Ways to Fail to Make a Law

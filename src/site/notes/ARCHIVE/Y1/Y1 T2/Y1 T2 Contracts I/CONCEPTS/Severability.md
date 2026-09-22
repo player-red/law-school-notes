@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/severability/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/severability/","dg-note-properties":{}}
 ---
 
 - Standard clause that appears in many contracts — states that if any part of an agreement is declared to be illegal, unlawful, etc by a Court, the remainder of the contract is enforceable as if the offending clause did not exist.

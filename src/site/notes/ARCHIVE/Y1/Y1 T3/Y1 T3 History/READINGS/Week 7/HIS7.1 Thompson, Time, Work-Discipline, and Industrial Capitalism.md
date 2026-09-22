@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-history/readings/week-7/his-7-1-thompson-time-work-discipline-and-industrial-capitalism/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-history/readings/week-7/his-7-1-thompson-time-work-discipline-and-industrial-capitalism/","dg-note-properties":{}}
 ---
 
 I

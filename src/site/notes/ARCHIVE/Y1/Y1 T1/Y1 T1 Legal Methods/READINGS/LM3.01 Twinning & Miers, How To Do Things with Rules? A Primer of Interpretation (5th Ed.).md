@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-3-01-twinning-and-miers-how-to-do-things-with-rules-a-primer-of-interpretation-5th-ed/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-3-01-twinning-and-miers-how-to-do-things-with-rules-a-primer-of-interpretation-5th-ed/","dg-note-properties":{}}
 ---
 
 Of Rules in General (pp. 80-97)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-10-01-guru-liberal-democracy-in-india-and-the-dalit-critique/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-10-01-guru-liberal-democracy-in-india-and-the-dalit-critique/","dg-note-properties":{}}
 ---
 
 - Liberal democracy is attractive to different social groups for different reasons.

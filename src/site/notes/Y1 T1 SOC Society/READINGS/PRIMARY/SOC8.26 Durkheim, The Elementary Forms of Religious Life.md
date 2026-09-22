@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-8-26-durkheim-the-elementary-forms-of-religious-life/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-8-26-durkheim-the-elementary-forms-of-religious-life/","dg-note-properties":{}}
 ---
 
 Chapter 1: 'Definition of Religious Phenomena and of Religion' (pg. 21-44)

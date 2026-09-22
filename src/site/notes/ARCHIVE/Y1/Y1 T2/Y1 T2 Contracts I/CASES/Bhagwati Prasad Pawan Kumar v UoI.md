@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/bhagwati-prasad-pawan-kumar-v-uo-i/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/bhagwati-prasad-pawan-kumar-v-uo-i/","dg-note-properties":{}}
 ---
 
 tags: #acceptance 

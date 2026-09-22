@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/karl-marx/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/karl-marx/","dg-note-properties":{"share_link":"https://share.note.sx/77tjyzce#TYmh8bwzI642XUAeN0a1WoiBKfO/dXxsQHEfP1nWg3M","share_updated":"2025-08-18T21:02:45+05:30"}}
 ---
 
 my beloved

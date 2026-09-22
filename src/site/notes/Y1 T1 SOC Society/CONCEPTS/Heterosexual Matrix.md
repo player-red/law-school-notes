@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/heterosexual-matrix/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/heterosexual-matrix/","dg-note-properties":{}}
 ---
 
 Links: [[Y1 T1 SOC Society/CONCEPTS/Gender\|Gender]], [[Y1 T1 SOC Society/CONCEPTS/Feminism\|Feminism]]

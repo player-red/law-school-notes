@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-1-01-the-capitalist-revolution/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-1-01-the-capitalist-revolution/","dg-note-properties":{}}
 ---
 
 Unit 1

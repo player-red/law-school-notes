@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-1-01-farr-understanding-conceptual-change-politically/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-1-01-farr-understanding-conceptual-change-politically/","dg-note-properties":{}}
 ---
 
 By James Farr.

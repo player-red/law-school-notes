@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-9-01-marx-estranged-labour/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-9-01-marx-estranged-labour/","dg-note-properties":{}}
 ---
 
 Written by [[Y1 T1 SOC Society/PEOPLE/Karl Marx\|Karl Marx]].

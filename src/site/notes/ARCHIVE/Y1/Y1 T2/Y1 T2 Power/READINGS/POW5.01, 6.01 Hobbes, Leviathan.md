@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-5-01-6-01-hobbes-leviathan/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-5-01-6-01-hobbes-leviathan/","dg-note-properties":{}}
 ---
 
 Written by [[ARCHIVE/Y1/Y1 T2/Y1 T2 Power/PEOPLE/Thomas Hobbes\|Thomas Hobbes]].

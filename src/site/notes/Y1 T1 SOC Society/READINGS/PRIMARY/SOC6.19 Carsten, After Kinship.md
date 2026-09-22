@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-6-19-carsten-after-kinship/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-6-19-carsten-after-kinship/","dg-note-properties":{"share_link":"https://share.note.sx/r68uan0a#q7tfCiJMQ8dF8ag+px9KtgtuXYKyOTjlsgU/zypdE3o","share_updated":"2025-08-22T17:01:59+05:30"}}
 ---
 
 (pg 1-26)

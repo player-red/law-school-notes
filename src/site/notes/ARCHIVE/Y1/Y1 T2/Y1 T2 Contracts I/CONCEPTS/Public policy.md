@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/public-policy/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/public-policy/","dg-note-properties":{}}
 ---
 
 Treated alongside morality: if any of these two is violated, [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Consideration\|Consideration]] is considered illegal. 

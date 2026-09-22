@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-3-08-bourdieu-the-forms-of-capital/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-3-08-bourdieu-the-forms-of-capital/","dg-note-properties":{"share_link":"https://share.note.sx/6phtwo04#EnPSiuX5kOUmaPae5qv/GLZCU1CnfczPQpmgggFDvrA","share_updated":"2025-08-19T22:06:40+05:30"}}
 ---
 
 (pg 241-58)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/gherulal-parakh-v-mahadeodas-maiya/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/gherulal-parakh-v-mahadeodas-maiya/","dg-note-properties":{}}
 ---
 
 Facts: 

@@ -18,3 +18,4 @@ Chapter 1 in The Rules of Sociological Method, p. 50-59, by [[Y1 T1 SOC Society/
 	- Compares social currents to air, as in they have weight but we are unable to feel it. 
 - Assume different forms through individuals but can be separated using statistics.
 - Ways of functioning vs ways of being: political divisions in society, civic relationships, clusters of people in cities, architectural styles, communication networks.
+

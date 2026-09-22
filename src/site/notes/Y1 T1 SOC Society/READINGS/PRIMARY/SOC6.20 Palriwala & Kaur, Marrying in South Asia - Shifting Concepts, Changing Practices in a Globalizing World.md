@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-6-20-palriwala-and-kaur-marrying-in-south-asia-shifting-concepts-changing-practices-in-a-globalizing-world/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-6-20-palriwala-and-kaur-marrying-in-south-asia-shifting-concepts-changing-practices-in-a-globalizing-world/","dg-note-properties":{}}
 ---
 
 'Introduction: Marriage in South Asia: Continuities and Transformations' (pg 1-27)

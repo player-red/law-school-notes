@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/chwee-kin-keong-and-ors-v-digilandmall-com-pte-ltd/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/chwee-kin-keong-and-ors-v-digilandmall-com-pte-ltd/","dg-note-properties":{}}
 ---
 
 Facts:

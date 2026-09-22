@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/govindaswamy-v-state-of-kerala/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/govindaswamy-v-state-of-kerala/","dg-note-properties":{}}
 ---
 
 Facts:

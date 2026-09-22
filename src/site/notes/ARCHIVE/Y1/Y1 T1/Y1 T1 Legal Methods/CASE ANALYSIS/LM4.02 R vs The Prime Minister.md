@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/case-analysis/lm-4-02-r-vs-the-prime-minister/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/case-analysis/lm-4-02-r-vs-the-prime-minister/","dg-note-properties":{}}
 ---
 
 Petitioner's arguments:

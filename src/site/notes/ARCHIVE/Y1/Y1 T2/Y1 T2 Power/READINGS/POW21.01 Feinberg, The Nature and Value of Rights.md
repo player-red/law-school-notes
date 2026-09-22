@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-21-01-feinberg-the-nature-and-value-of-rights/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-21-01-feinberg-the-nature-and-value-of-rights/","dg-note-properties":{}}
 ---
 
 - Asks the reader to imagine a society in which rights do not exist.

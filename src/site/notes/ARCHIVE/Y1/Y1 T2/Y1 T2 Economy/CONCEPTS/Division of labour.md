@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/concepts/division-of-labour/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/concepts/division-of-labour/","dg-note-properties":{}}
 ---
 
 Specialization of producers to carry out different tasks in the production process. An essential feature of [[ARCHIVE/Y1/Y1 T2/Y1 T2 Economy/CONCEPTS/Capitalism\|Capitalism]].

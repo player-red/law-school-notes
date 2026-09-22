@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/david-schneider/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/david-schneider/","dg-note-properties":{}}
 ---
 

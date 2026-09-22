@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-history/readings/week-2/his-2-1-ober-institutions-growth-and-inequality-in-ancient-greece/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-history/readings/week-2/his-2-1-ober-institutions-growth-and-inequality-in-ancient-greece/","dg-note-properties":{}}
 ---
 
 

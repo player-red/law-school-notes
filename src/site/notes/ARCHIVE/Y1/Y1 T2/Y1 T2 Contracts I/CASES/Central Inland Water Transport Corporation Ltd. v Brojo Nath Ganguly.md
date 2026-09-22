@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/central-inland-water-transport-corporation-ltd-v-brojo-nath-ganguly/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/central-inland-water-transport-corporation-ltd-v-brojo-nath-ganguly/","dg-note-properties":{}}
 ---
 
 [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Consideration\|Consideration]], [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Public policy\|Public policy]].

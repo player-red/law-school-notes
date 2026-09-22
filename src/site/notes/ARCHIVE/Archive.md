@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/archive/"}
+{"dg-publish":true,"permalink":"/archive/archive/","dg-note-properties":{}}
 ---
 
 - All notes no longer in use.

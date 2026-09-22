@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-4-11-ambedkar-castes-in-india-their-mechanism-genesis-and-development/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-4-11-ambedkar-castes-in-india-their-mechanism-genesis-and-development/","dg-note-properties":{}}
 ---
 
 Explanation of [[Y1 T1 SOC Society/CONCEPTS/Caste\|Caste]] by [[Y1 T1 SOC Society/PEOPLE/Dr B. R. Ambedkar\|Dr B. R. Ambedkar]].

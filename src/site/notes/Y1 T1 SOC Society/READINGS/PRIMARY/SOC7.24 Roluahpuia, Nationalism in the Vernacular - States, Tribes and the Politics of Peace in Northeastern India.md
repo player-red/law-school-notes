@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-7-24-roluahpuia-nationalism-in-the-vernacular-states-tribes-and-the-politics-of-peace-in-northeastern-india/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-7-24-roluahpuia-nationalism-in-the-vernacular-states-tribes-and-the-politics-of-peace-in-northeastern-india/","dg-note-properties":{}}
 ---
 
 The 'Tribal Question' in India: Problem of Inclusion (pp. 30-47)
@@ -10,7 +10,7 @@ The 'Tribal Question' in India: Problem of Inclusion (pp. 30-47)
 - ST is a term embraced by people of Northeastern tribes, as both an official category used by the government and as a means to self-identify. 
 - Main debate relating to the 'tribal question': whether tribes should be integrated into the mainstream or kept isolated.
 	- Integrationist: G. S. Ghurye argued for assimilation within Hindu fold.
-	- Isolationist: Verrier Elwin thought integration would be a threat to the culture of the tribes.
+	- Isolationist: [[Y2 T1 SOC Social Forces (MC I)/PEOPLE/Verrier Elwin\|Verrier Elwin]] thought integration would be a threat to the culture of the tribes.
 	- Both forgot to consider what the tribes actually want. 
 - Marginalization of tribes due to loss of autonomy during colonial and post-colonial rule
 	- Both sides of the debate forgot to account for this, leading to demands for autonomy on two levels.

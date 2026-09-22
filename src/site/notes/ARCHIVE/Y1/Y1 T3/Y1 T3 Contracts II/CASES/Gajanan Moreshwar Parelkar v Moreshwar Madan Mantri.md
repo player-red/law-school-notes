@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-contracts-ii/cases/gajanan-moreshwar-parelkar-v-moreshwar-madan-mantri/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-contracts-ii/cases/gajanan-moreshwar-parelkar-v-moreshwar-madan-mantri/","dg-note-properties":{}}
 ---
 
 [[ARCHIVE/Y1/Y1 T3/Y1 T3 Contracts II/CONCEPTS/Indemnity\|Indemnity]]

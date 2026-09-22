@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/people/jeremy-bentham/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/people/jeremy-bentham/","dg-note-properties":{}}
 ---
 
 Father of utilitarianism and "a very good hater", according to Frederick Schauer. 

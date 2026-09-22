@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-2-06-harriss-white-india-working-essays-on-economy-and-society/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-2-06-harriss-white-india-working-essays-on-economy-and-society/","dg-note-properties":{"share_link":"https://share.note.sx/zmo9oodi#m46ZmUhb8vTJ7KMdHspya/N2Qe4CI90E6O3a9aC2kCk","share_updated":"2025-08-19T00:16:35+05:30"}}
 ---
 
 Chapter 2 (pg 17-42)

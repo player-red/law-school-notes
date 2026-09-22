@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-9-01-pal-separation-of-powers/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-9-01-pal-separation-of-powers/","dg-note-properties":{}}
 ---
 
 Chapter 15 in The Oxford Handbook of the Indian Constitution

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/paradox-of-castelessness/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/paradox-of-castelessness/","dg-note-properties":{}}
 ---
 
 A theory on [[Y1 T1 SOC Society/CONCEPTS/Caste\|Caste]] by [[Y1 T1 SOC Society/PEOPLE/Satish Deshpande\|Satish Deshpande]].

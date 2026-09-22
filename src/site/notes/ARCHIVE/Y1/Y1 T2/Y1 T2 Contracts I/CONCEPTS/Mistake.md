@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/mistake/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/mistake/","dg-note-properties":{}}
 ---
 
 Sec. 20 of the [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/READINGS/Indian Contract Act, 1872\|Indian Contract Act, 1872]]

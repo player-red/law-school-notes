@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-2-01-bhargava-why-do-we-need-political-theory/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-power/readings/pow-2-01-bhargava-why-do-we-need-political-theory/","dg-note-properties":{}}
 ---
 
 By Rajeev Bhargava.

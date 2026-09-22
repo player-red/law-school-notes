@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/performance/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/performance/","dg-note-properties":{}}
 ---
 
 Parties to a contract must perform or offer to perform their respective promises unless it is dispensed with or excused under the [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/READINGS/Indian Contract Act, 1872\|Indian Contract Act, 1872]].

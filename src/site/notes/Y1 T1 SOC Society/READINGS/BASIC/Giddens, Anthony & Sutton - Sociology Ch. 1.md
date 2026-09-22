@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/basic/giddens-anthony-and-sutton-sociology-ch-1/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/basic/giddens-anthony-and-sutton-sociology-ch-1/","dg-note-properties":{}}
 ---
 
 (pg 46-91)

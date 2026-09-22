@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-2-01-de-a-people-s-constitution-the-everyday-life-of-law-in-the-indian-republic/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-2-01-de-a-people-s-constitution-the-everyday-life-of-law-in-the-indian-republic/","dg-note-properties":{}}
 ---
 
 Introduction (pp. 1-15)

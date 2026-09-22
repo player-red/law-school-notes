@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/harvey-v-facey/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/harvey-v-facey/","dg-note-properties":{}}
 ---
 
 tags: #invitation_to_treat  #offer #acceptance 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y2-t1-soc-social-forces-mc-i/concepts/rationalization/"}
+{"dg-publish":true,"permalink":"/y2-t1-soc-social-forces-mc-i/concepts/rationalization/","dg-note-properties":{}}
 ---
 
 - Coined by [[Y2 T1 SOC Social Forces (MC I)/PEOPLE/Max Weber\|Max Weber]].

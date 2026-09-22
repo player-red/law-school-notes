@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/radically-networked-societies/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/radically-networked-societies/","dg-note-properties":{}}
 ---
 
 Defined by Pranay Kotasthane and Nitin Pai as:

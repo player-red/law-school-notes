@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/satyabrata-ghose-v-mugneeram-bangur-and-company/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/satyabrata-ghose-v-mugneeram-bangur-and-company/","dg-note-properties":{}}
 ---
 
 Facts:

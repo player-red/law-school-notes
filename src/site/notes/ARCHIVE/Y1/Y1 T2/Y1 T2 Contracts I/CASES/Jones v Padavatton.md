@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/jones-v-padavatton/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/jones-v-padavatton/","dg-note-properties":{}}
 ---
 
 tags: #legalrelations_intention 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/alteration/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/alteration/","dg-note-properties":{}}
 ---
 
 A few changes in some terms of the contract, not a total change unlike [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Novation\|Novation]]. 

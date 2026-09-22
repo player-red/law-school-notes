@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/south-west-terminal-ltd-v-achter-land-and-cattle-ltd/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/south-west-terminal-ltd-v-achter-land-and-cattle-ltd/","dg-note-properties":{}}
 ---
 
 Facts: 

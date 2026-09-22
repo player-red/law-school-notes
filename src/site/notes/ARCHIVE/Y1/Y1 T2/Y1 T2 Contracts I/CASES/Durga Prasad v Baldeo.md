@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/durga-prasad-v-baldeo/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/durga-prasad-v-baldeo/","dg-note-properties":{}}
 ---
 
 tags: #consideration 

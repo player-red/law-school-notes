@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/simone-de-beauvoir/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/simone-de-beauvoir/","dg-note-properties":{}}
 ---
 
 

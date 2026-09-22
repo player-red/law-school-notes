@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/social-reproduction/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/social-reproduction/","dg-note-properties":{}}
 ---
 
 - Introduced by [[Y1 T1 SOC Society/PEOPLE/Karl Marx\|Karl Marx]] in his book, Das Kapital.

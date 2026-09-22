@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-5-17-reddy-negotiating-hijra-identity-in-south-india/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-5-17-reddy-negotiating-hijra-identity-in-south-india/","dg-note-properties":{"share_link":"https://share.note.sx/guy7d38e#/QZAVxEdrQdPwvyeGzq3Hj5gmQlJglgOkIpYBEV6Wbk","share_updated":"2025-08-21T16:04:46+05:30"}}
 ---
 
 Chapter 2: Hijras, Individuality, and Izzat (pg 17-43)

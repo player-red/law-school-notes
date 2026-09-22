@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/padia-timber-company-ltd-v-the-board-of-trustees-of-visakhapatnam-port-trust/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/padia-timber-company-ltd-v-the-board-of-trustees-of-visakhapatnam-port-trust/","dg-note-properties":{}}
 ---
 
 tags: #conditional_acceptance #acceptance #counter_offer 

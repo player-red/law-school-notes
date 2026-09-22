@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/lefkowitz-v-great-minneapolis-surplus-store-inc/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/lefkowitz-v-great-minneapolis-surplus-store-inc/","dg-note-properties":{}}
 ---
 
 tags: #invitation_to_treat  #offer 

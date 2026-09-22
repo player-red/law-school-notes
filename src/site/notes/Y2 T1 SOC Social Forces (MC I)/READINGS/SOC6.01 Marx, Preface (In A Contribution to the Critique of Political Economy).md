@@ -9,3 +9,4 @@ By [[Y1 T1 SOC Society/PEOPLE/Karl Marx\|Karl Marx]].
 - Mode of production (= subsistence, feudalism, capitalism, communism, etc.) of material life determines social, political and intellectual life.
 - Social orders depend on the productive forces in society.
 - Believes the bourgeois form of society is the last antagonistic form of the social process of production. 
+

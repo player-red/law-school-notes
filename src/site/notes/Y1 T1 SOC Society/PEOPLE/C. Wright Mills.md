@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/c-wright-mills/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/people/c-wright-mills/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-1-01-manto-the-new-constitution/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t1/y1-t1-legal-methods/readings/lm-1-01-manto-the-new-constitution/","dg-note-properties":{}}
 ---
 
 - Legal education is inaccessible to general public, and requires special education in order to begin understanding.

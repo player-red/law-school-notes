@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/communication/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/concepts/communication/","dg-note-properties":{}}
 ---
 
 General rule: Communication (offer + acceptance) is complete when it comes to the knowledge of the receiver. 

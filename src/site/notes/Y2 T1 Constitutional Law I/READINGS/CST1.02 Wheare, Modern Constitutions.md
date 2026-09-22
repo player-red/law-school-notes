@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y2-t1-constitutional-law-i/readings/cst-1-02-wheare-modern-constitutions/"}
+{"dg-publish":true,"permalink":"/y2-t1-constitutional-law-i/readings/cst-1-02-wheare-modern-constitutions/","dg-note-properties":{}}
 ---
 
 Chapters 1 and 2.

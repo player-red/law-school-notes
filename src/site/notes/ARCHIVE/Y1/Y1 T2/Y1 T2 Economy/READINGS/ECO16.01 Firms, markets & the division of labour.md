@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-16-01-firms-markets-and-the-division-of-labour/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-16-01-firms-markets-and-the-division-of-labour/","dg-note-properties":{}}
 ---
 
 Firm: economic organization in which private owners of capital goods hire and direct labour to produce goods and services for sale on markets to make a profit.

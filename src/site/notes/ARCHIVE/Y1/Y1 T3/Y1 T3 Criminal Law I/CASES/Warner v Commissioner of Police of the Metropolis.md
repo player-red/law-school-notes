@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/warner-v-commissioner-of-police-of-the-metropolis/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/warner-v-commissioner-of-police-of-the-metropolis/","dg-note-properties":{}}
 ---
 
 Aka R v Warner

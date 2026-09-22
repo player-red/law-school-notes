@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-13-01-property-and-power-mutual-gains-and-conflict/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-economy/readings/eco-13-01-property-and-power-mutual-gains-and-conflict/","dg-note-properties":{}}
 ---
 
 Institutions govern interactions between members of a group by implementing incentives and constraints.

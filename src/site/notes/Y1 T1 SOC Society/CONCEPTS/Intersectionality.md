@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/intersectionality/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/intersectionality/","dg-note-properties":{}}
 ---
 
 Coined by Kimberly Crenshaw.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/jai-prakash-vs-state-delhi-administration/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t3/y1-t3-criminal-law-i/cases/jai-prakash-vs-state-delhi-administration/","dg-note-properties":{}}
 ---
 
 Facts:

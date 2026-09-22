@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/class-consciousness/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/concepts/class-consciousness/","dg-note-properties":{}}
 ---
 
 [[Y1 T1 SOC Society/PEOPLE/Karl Marx\|Karl Marx]] described this as the scattered proletariat coming together, realizing its shared interests and giving way to collective action, as a class for itself (Klass für sich).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/kanhayyalal-madhavlal-khandelwal-v-roshan-eruch-mehta-and-ors/"}
+{"dg-publish":true,"permalink":"/archive/y1/y1-t2/y1-t2-contracts-i/cases/kanhayyalal-madhavlal-khandelwal-v-roshan-eruch-mehta-and-ors/","dg-note-properties":{}}
 ---
 
 One-line summary: tried to avoid taxation, which is against [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Public policy\|Public policy]] and violates a principle of [[ARCHIVE/Y1/Y1 T2/Y1 T2 Contracts I/CONCEPTS/Consideration\|Consideration]].

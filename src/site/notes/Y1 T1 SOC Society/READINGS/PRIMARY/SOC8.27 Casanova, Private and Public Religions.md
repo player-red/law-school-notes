@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-8-27-casanova-private-and-public-religions/"}
+{"dg-publish":true,"permalink":"/y1-t1-soc-society/readings/primary/soc-8-27-casanova-private-and-public-religions/","dg-note-properties":{}}
 ---
 
 Social Research 59(1): 17-57
