@@ -12,7 +12,7 @@ Introduction to the The Protestant Ethic and the Spirit of Capitalism, by [[Y2 T
 	- A sign of fulfilling this command was economic prosperity. Profit became a visible blessing from God, to be used again for work and not idle time/luxury. Saving and investing was highly encouraged.
 
 The Spirit of Capitalism
-- Quotes concepts of time being money, and that money is able to multiply itself if used wisely.
+- Quotes concepts of time being money, and that money is able to multiply itself if used wisely. [[ARCHIVE/Y1/Y1 T3/Y1 T3 History/READINGS/Week 7/HIS7.1 Thompson, Time, Work-Discipline, and Industrial Capitalism\|HIS7.1 Thompson, Time, Work-Discipline, and Industrial Capitalism]]: time became a commodity.
 - Describes these attitudes as utilitarianism, but even a mere farce would suffice for those values to be fulfilled. 
 	- The values are only useful till they wield some utility for the individual, and if a farce yields utility then it works the same as the actual quality. 
 - Utility is described as an individual practicing righteousness.
