@@ -30,4 +30,3 @@ In India's Village, pp. 21-35.
 - Calls inter-caste rivalry a natural corollary of caste solidarity, pride of one's own caste and contempt for the ways of other castes. 
 - Caste courts can excommunicate people from their caste for offences such as an upper-caste living with a person from the Untouchable caste, etc.
 - Village and caste authorities work together. 
-/
