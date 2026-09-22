@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/y2-t1-soc-social-forces-mc-i/readings/soc-7-01-marx-chapter-one-commodities/","dg-note-properties":{}}
 ---
 
-In Capital: Volume 1.
+In Capital: Volume 1, by [[Y1 T1 SOC Society/PEOPLE/Karl Marx\|Karl Marx]]. Explores [[Y2 T1 SOC Social Forces (MC I)/CONCEPTS/Commodity fetishism\|Commodity fetishism]].
 
 Section I: The Two Factors of a Commodity: Use-value and Value (The Substance of Value and the Magnitude of Value)
 - Capitalist mode of production: accumulation of commodities.
