@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/y2-t1-soc-social-forces-mc-i/readings/soc-25-01-srinivas-the-social-structure-of-a-mysore-village/","dg-note-properties":{}}
 ---
 
-In India's Village, pp. 21-35.
+In India's Village, pp. 21-35. [[Y1 T1 SOC Society/CONCEPTS/Caste\|Caste]]
 
 - Sir Henry Maine brought the Indian village community into prominence and made it the basis of his theory of primitive communism of property.
 	- Argued that land was owned jointly by kin-groups and individual ownership of land was later phenomenon in the history of history of human societies.
