@@ -17,4 +17,3 @@ Critique of [[Y2 T1 SOC Social Forces (MC I)/READINGS/SOC25.01 Srinivas, The Soc
 - Srinivas tried to establish the concept of a dominant caste (if not too low in the hierarchy) which is supported by a large number of people, material wealth, outside connections, etc. 
 - Dominance and solidarity opposed to the theories of Sanskritization and Westernization: is dominance required for the latter theories? 
 	- He describes them as independent processes, but shows no indication of intersection though they do.
-/
